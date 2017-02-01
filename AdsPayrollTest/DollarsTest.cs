@@ -73,6 +73,7 @@ namespace AdsPayrollTest
             var dollar1 = Dollars.Parse("1.00");
             var dollar2 = Dollars.Parse("2.00");
             Assert.IsTrue(dollar2 > dollar1 );
+            Assert.IsFalse(dollar1 > dollar2);
         }
         
     }
