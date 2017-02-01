@@ -1,0 +1,17 @@
+/Users/chetHendrickson/Dropbox/ADS Server Files/Frankfurt/AddPayrolls with Money/CSharp/AdsPayroll/AdsPayroll/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/chetHendrickson/Dropbox/ADS Server Files/Frankfurt/AddPayrolls with Money/CSharp/AdsPayroll/AdsPayroll/bin/Debug/AdsPayroll.dll.mdb
+/Users/chetHendrickson/Dropbox/ADS Server Files/Frankfurt/AddPayrolls with Money/CSharp/AdsPayroll/AdsPayroll/bin/Debug/AdsPayroll.pdb
+/Users/chetHendrickson/Dropbox/ADS Server Files/Frankfurt/AddPayrolls with Money/CSharp/AdsPayroll/AdsPayroll/bin/Debug/AdsPayroll.dll
+/Users/chetHendrickson/Dropbox/ADS Server Files/Frankfurt/AddPayrolls with Money/CSharp/AdsPayroll/AdsPayroll/obj/Debug/AdsPayroll.dll
+/Users/chetHendrickson/Dropbox/ADS Server Files/Frankfurt/AddPayrolls with Money/CSharp/AdsPayroll/AdsPayroll/obj/Debug/AdsPayroll.dll.mdb
+/Users/chetHendrickson/Dropbox/ADS Server Files/Frankfurt/AddPayrolls with Money/CSharp/AdsPayroll/AdsPayroll/obj/Debug/AdsPayroll.pdb
+/Users/chetHendrickson/Dropbox/ADS Server Files/Frankfurt/AddPayrolls with Money/CSharp/AdsPayroll/AdsPayroll/bin/Debug/dbfit.dll
+/Users/chetHendrickson/Dropbox/ADS Server Files/Frankfurt/AddPayrolls with Money/CSharp/AdsPayroll/AdsPayroll/bin/Debug/dbfit.mysql.dll
+/Users/chetHendrickson/Dropbox/ADS Server Files/Frankfurt/AddPayrolls with Money/CSharp/AdsPayroll/AdsPayroll/bin/Debug/dbfit.oracle.dll
+/Users/chetHendrickson/Dropbox/ADS Server Files/Frankfurt/AddPayrolls with Money/CSharp/AdsPayroll/AdsPayroll/bin/Debug/dbfit.sqlserver.dll
+/Users/chetHendrickson/Dropbox/ADS Server Files/Frankfurt/AddPayrolls with Money/CSharp/AdsPayroll/AdsPayroll/bin/Debug/dbfit.sybase.dll
+/Users/chetHendrickson/Dropbox/ADS Server Files/Frankfurt/AddPayrolls with Money/CSharp/AdsPayroll/AdsPayroll/bin/Debug/fit.dll
+/Users/chetHendrickson/Dropbox/ADS Server Files/Frankfurt/AddPayrolls with Money/CSharp/AdsPayroll/AdsPayroll/bin/Debug/fitSharp.dll
+/Users/chetHendrickson/Dropbox/ADS Server Files/Frankfurt/AddPayrolls with Money/CSharp/AdsPayroll/AdsPayroll/bin/Debug/Newtonsoft.Json.dll
+/Users/chetHendrickson/Dropbox/ADS Server Files/Frankfurt/AddPayrolls with Money/CSharp/AdsPayroll/AdsPayroll/bin/Debug/NodaMoney.dll
+/Users/chetHendrickson/Dropbox/ADS Server Files/Frankfurt/AddPayrolls with Money/CSharp/AdsPayroll/AdsPayroll/bin/Debug/nunit.framework.dll

@@ -1,0 +1,73 @@
+C:\data\Cisco ADS August 2016\AdsPayroll\AdsPayrollTest\bin\Debug\AdsPayrollTest.dll
+C:\data\Cisco ADS August 2016\AdsPayroll\AdsPayrollTest\bin\Debug\AdsPayrollTest.pdb
+C:\data\Cisco ADS August 2016\AdsPayroll\AdsPayrollTest\bin\Debug\AdsPayroll.dll
+C:\data\Cisco ADS August 2016\AdsPayroll\AdsPayrollTest\bin\Debug\dbfit.dll
+C:\data\Cisco ADS August 2016\AdsPayroll\AdsPayrollTest\bin\Debug\dbfit.mysql.dll
+C:\data\Cisco ADS August 2016\AdsPayroll\AdsPayrollTest\bin\Debug\dbfit.oracle.dll
+C:\data\Cisco ADS August 2016\AdsPayroll\AdsPayrollTest\bin\Debug\dbfit.sqlserver.dll
+C:\data\Cisco ADS August 2016\AdsPayroll\AdsPayrollTest\bin\Debug\dbfit.sybase.dll
+C:\data\Cisco ADS August 2016\AdsPayroll\AdsPayrollTest\bin\Debug\fit.dll
+C:\data\Cisco ADS August 2016\AdsPayroll\AdsPayrollTest\bin\Debug\fitSharp.dll
+C:\data\Cisco ADS August 2016\AdsPayroll\AdsPayrollTest\bin\Debug\nunit.framework.dll
+C:\data\Cisco ADS August 2016\AdsPayroll\AdsPayrollTest\bin\Debug\AdsPayroll.pdb
+C:\data\Cisco ADS August 2016\AdsPayroll\AdsPayrollTest\bin\Debug\nunit.framework.xml
+C:\data\Cisco ADS August 2016\AdsPayroll\AdsPayrollTest\obj\Debug\AdsPayrollTest.csprojResolveAssemblyReference.cache
+C:\data\Cisco ADS August 2016\AdsPayroll\AdsPayrollTest\obj\Debug\AdsPayrollTest.dll
+C:\data\Cisco ADS August 2016\AdsPayroll\AdsPayrollTest\obj\Debug\AdsPayrollTest.pdb
+H:\AdsPayroll\AdsPayrollTest\bin\Debug\AdsPayrollTest.dll
+H:\AdsPayroll\AdsPayrollTest\bin\Debug\AdsPayrollTest.pdb
+H:\AdsPayroll\AdsPayrollTest\bin\Debug\AdsPayroll.dll
+H:\AdsPayroll\AdsPayrollTest\bin\Debug\dbfit.dll
+H:\AdsPayroll\AdsPayrollTest\bin\Debug\dbfit.mysql.dll
+H:\AdsPayroll\AdsPayrollTest\bin\Debug\dbfit.oracle.dll
+H:\AdsPayroll\AdsPayrollTest\bin\Debug\dbfit.sqlserver.dll
+H:\AdsPayroll\AdsPayrollTest\bin\Debug\dbfit.sybase.dll
+H:\AdsPayroll\AdsPayrollTest\bin\Debug\fit.dll
+H:\AdsPayroll\AdsPayrollTest\bin\Debug\fitSharp.dll
+H:\AdsPayroll\AdsPayrollTest\bin\Debug\AdsPayroll.pdb
+H:\AdsPayroll\AdsPayrollTest\bin\Debug\nunit.framework.xml
+H:\AdsPayroll\AdsPayrollTest\obj\Debug\AdsPayrollTest.csprojResolveAssemblyReference.cache
+H:\AdsPayroll\AdsPayrollTest\obj\Debug\AdsPayrollTest.dll
+H:\AdsPayroll\AdsPayrollTest\obj\Debug\AdsPayrollTest.pdb
+H:\AdsPayroll\AdsPayrollTest\bin\Debug\Newtonsoft.Json.dll
+H:\AdsPayroll\AdsPayrollTest\bin\Debug\NodaMoney.dll
+H:\AdsPayroll\AdsPayrollTest\bin\Debug\Newtonsoft.Json.xml
+H:\AdsPayroll\AdsPayrollTest\bin\Debug\NodaMoney.xml
+C:\Users\suechet\Chet Dropbox\Dropbox\ADS Server Files\Frankfurt\AddPayrolls with Money\CSharp\AdsPayroll\AdsPayrollTest\bin\Debug\AdsPayrollTest.dll
+C:\Users\suechet\Chet Dropbox\Dropbox\ADS Server Files\Frankfurt\AddPayrolls with Money\CSharp\AdsPayroll\AdsPayrollTest\bin\Debug\AdsPayrollTest.pdb
+C:\Users\suechet\Chet Dropbox\Dropbox\ADS Server Files\Frankfurt\AddPayrolls with Money\CSharp\AdsPayroll\AdsPayrollTest\bin\Debug\AdsPayroll.dll
+C:\Users\suechet\Chet Dropbox\Dropbox\ADS Server Files\Frankfurt\AddPayrolls with Money\CSharp\AdsPayroll\AdsPayrollTest\bin\Debug\dbfit.dll
+C:\Users\suechet\Chet Dropbox\Dropbox\ADS Server Files\Frankfurt\AddPayrolls with Money\CSharp\AdsPayroll\AdsPayrollTest\bin\Debug\dbfit.mysql.dll
+C:\Users\suechet\Chet Dropbox\Dropbox\ADS Server Files\Frankfurt\AddPayrolls with Money\CSharp\AdsPayroll\AdsPayrollTest\bin\Debug\dbfit.oracle.dll
+C:\Users\suechet\Chet Dropbox\Dropbox\ADS Server Files\Frankfurt\AddPayrolls with Money\CSharp\AdsPayroll\AdsPayrollTest\bin\Debug\dbfit.sqlserver.dll
+C:\Users\suechet\Chet Dropbox\Dropbox\ADS Server Files\Frankfurt\AddPayrolls with Money\CSharp\AdsPayroll\AdsPayrollTest\bin\Debug\dbfit.sybase.dll
+C:\Users\suechet\Chet Dropbox\Dropbox\ADS Server Files\Frankfurt\AddPayrolls with Money\CSharp\AdsPayroll\AdsPayrollTest\bin\Debug\fit.dll
+C:\Users\suechet\Chet Dropbox\Dropbox\ADS Server Files\Frankfurt\AddPayrolls with Money\CSharp\AdsPayroll\AdsPayrollTest\bin\Debug\fitSharp.dll
+C:\Users\suechet\Chet Dropbox\Dropbox\ADS Server Files\Frankfurt\AddPayrolls with Money\CSharp\AdsPayroll\AdsPayrollTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\suechet\Chet Dropbox\Dropbox\ADS Server Files\Frankfurt\AddPayrolls with Money\CSharp\AdsPayroll\AdsPayrollTest\bin\Debug\NodaMoney.dll
+C:\Users\suechet\Chet Dropbox\Dropbox\ADS Server Files\Frankfurt\AddPayrolls with Money\CSharp\AdsPayroll\AdsPayrollTest\bin\Debug\AdsPayroll.pdb
+C:\Users\suechet\Chet Dropbox\Dropbox\ADS Server Files\Frankfurt\AddPayrolls with Money\CSharp\AdsPayroll\AdsPayrollTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\suechet\Chet Dropbox\Dropbox\ADS Server Files\Frankfurt\AddPayrolls with Money\CSharp\AdsPayroll\AdsPayrollTest\bin\Debug\NodaMoney.xml
+C:\Users\suechet\Chet Dropbox\Dropbox\ADS Server Files\Frankfurt\AddPayrolls with Money\CSharp\AdsPayroll\AdsPayrollTest\bin\Debug\nunit.framework.xml
+C:\Users\suechet\Chet Dropbox\Dropbox\ADS Server Files\Frankfurt\AddPayrolls with Money\CSharp\AdsPayroll\AdsPayrollTest\obj\Debug\AdsPayrollTest.csprojResolveAssemblyReference.cache
+C:\Users\suechet\Chet Dropbox\Dropbox\ADS Server Files\Frankfurt\AddPayrolls with Money\CSharp\AdsPayroll\AdsPayrollTest\obj\Debug\AdsPayrollTest.dll
+C:\Users\suechet\Chet Dropbox\Dropbox\ADS Server Files\Frankfurt\AddPayrolls with Money\CSharp\AdsPayroll\AdsPayrollTest\obj\Debug\AdsPayrollTest.pdb
+\\mac\Dropbox\ADS Server Files\Frankfurt\AddPayrolls with Money\CSharp\AdsPayroll\AdsPayrollTest\bin\Debug\AdsPayrollTest.dll
+\\mac\Dropbox\ADS Server Files\Frankfurt\AddPayrolls with Money\CSharp\AdsPayroll\AdsPayrollTest\bin\Debug\AdsPayrollTest.pdb
+\\mac\Dropbox\ADS Server Files\Frankfurt\AddPayrolls with Money\CSharp\AdsPayroll\AdsPayrollTest\bin\Debug\AdsPayroll.dll
+\\mac\Dropbox\ADS Server Files\Frankfurt\AddPayrolls with Money\CSharp\AdsPayroll\AdsPayrollTest\bin\Debug\dbfit.dll
+\\mac\Dropbox\ADS Server Files\Frankfurt\AddPayrolls with Money\CSharp\AdsPayroll\AdsPayrollTest\bin\Debug\dbfit.mysql.dll
+\\mac\Dropbox\ADS Server Files\Frankfurt\AddPayrolls with Money\CSharp\AdsPayroll\AdsPayrollTest\bin\Debug\dbfit.oracle.dll
+\\mac\Dropbox\ADS Server Files\Frankfurt\AddPayrolls with Money\CSharp\AdsPayroll\AdsPayrollTest\bin\Debug\dbfit.sqlserver.dll
+\\mac\Dropbox\ADS Server Files\Frankfurt\AddPayrolls with Money\CSharp\AdsPayroll\AdsPayrollTest\bin\Debug\dbfit.sybase.dll
+\\mac\Dropbox\ADS Server Files\Frankfurt\AddPayrolls with Money\CSharp\AdsPayroll\AdsPayrollTest\bin\Debug\fit.dll
+\\mac\Dropbox\ADS Server Files\Frankfurt\AddPayrolls with Money\CSharp\AdsPayroll\AdsPayrollTest\bin\Debug\fitSharp.dll
+\\mac\Dropbox\ADS Server Files\Frankfurt\AddPayrolls with Money\CSharp\AdsPayroll\AdsPayrollTest\bin\Debug\Newtonsoft.Json.dll
+\\mac\Dropbox\ADS Server Files\Frankfurt\AddPayrolls with Money\CSharp\AdsPayroll\AdsPayrollTest\bin\Debug\NodaMoney.dll
+\\mac\Dropbox\ADS Server Files\Frankfurt\AddPayrolls with Money\CSharp\AdsPayroll\AdsPayrollTest\bin\Debug\AdsPayroll.pdb
+\\mac\Dropbox\ADS Server Files\Frankfurt\AddPayrolls with Money\CSharp\AdsPayroll\AdsPayrollTest\bin\Debug\Newtonsoft.Json.xml
+\\mac\Dropbox\ADS Server Files\Frankfurt\AddPayrolls with Money\CSharp\AdsPayroll\AdsPayrollTest\bin\Debug\NodaMoney.xml
+\\mac\Dropbox\ADS Server Files\Frankfurt\AddPayrolls with Money\CSharp\AdsPayroll\AdsPayrollTest\bin\Debug\nunit.framework.xml
+\\mac\Dropbox\ADS Server Files\Frankfurt\AddPayrolls with Money\CSharp\AdsPayroll\AdsPayrollTest\obj\Debug\AdsPayrollTest.csprojResolveAssemblyReference.cache
+\\mac\Dropbox\ADS Server Files\Frankfurt\AddPayrolls with Money\CSharp\AdsPayroll\AdsPayrollTest\obj\Debug\AdsPayrollTest.dll
+\\mac\Dropbox\ADS Server Files\Frankfurt\AddPayrolls with Money\CSharp\AdsPayroll\AdsPayrollTest\obj\Debug\AdsPayrollTest.pdb
