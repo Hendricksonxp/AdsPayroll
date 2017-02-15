@@ -2,28 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8cb0bfe5-6644-437f-8792-c20b15023c5e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AdsPayroll/Employee.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AdsPayroll/Employees.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AdsPayroll/Payment.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AdsPayroll/Payments.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AdsPayroll/Payroll.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AdsPayrollTest/PayrollTest.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayroll/bin/Debug/AdsPayroll.dll" afterPath="$PROJECT_DIR$/AdsPayroll/bin/Debug/AdsPayroll.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayroll/bin/Debug/AdsPayroll.dll.mdb" afterPath="$PROJECT_DIR$/AdsPayroll/bin/Debug/AdsPayroll.dll.mdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayroll/obj/Debug/AdsPayroll.dll" afterPath="$PROJECT_DIR$/AdsPayroll/obj/Debug/AdsPayroll.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayroll/obj/Debug/AdsPayroll.dll.mdb" afterPath="$PROJECT_DIR$/AdsPayroll/obj/Debug/AdsPayroll.dll.mdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayrollTest/bin/Debug/AdsPayroll.dll" afterPath="$PROJECT_DIR$/AdsPayrollTest/bin/Debug/AdsPayroll.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayrollTest/bin/Debug/AdsPayroll.dll.mdb" afterPath="$PROJECT_DIR$/AdsPayrollTest/bin/Debug/AdsPayroll.dll.mdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayrollTest/bin/Debug/AdsPayrollTest.dll" afterPath="$PROJECT_DIR$/AdsPayrollTest/bin/Debug/AdsPayrollTest.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayrollTest/bin/Debug/AdsPayrollTest.dll.mdb" afterPath="$PROJECT_DIR$/AdsPayrollTest/bin/Debug/AdsPayrollTest.dll.mdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayrollTest/obj/Debug/AdsPayrollTest.dll" afterPath="$PROJECT_DIR$/AdsPayrollTest/obj/Debug/AdsPayrollTest.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayrollTest/obj/Debug/AdsPayrollTest.dll.mdb" afterPath="$PROJECT_DIR$/AdsPayrollTest/obj/Debug/AdsPayrollTest.dll.mdb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.AdsPayroll/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.AdsPayroll/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayroll/AdsPayroll.csproj" afterPath="$PROJECT_DIR$/AdsPayroll/AdsPayroll.csproj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayroll/obj/Debug/AdsPayroll.csproj.FilesWrittenAbsolute.txt" afterPath="$PROJECT_DIR$/AdsPayroll/obj/Debug/AdsPayroll.csproj.FilesWrittenAbsolute.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayrollTest/AdsPayrollTest.csproj" afterPath="$PROJECT_DIR$/AdsPayrollTest/AdsPayrollTest.csproj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayrollTest/HookUpTest.cs" afterPath="$PROJECT_DIR$/AdsPayrollTest/HookUpTest.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayrollTest/obj/Debug/AdsPayrollTest.csproj.FilesWrittenAbsolute.txt" afterPath="$PROJECT_DIR$/AdsPayrollTest/obj/Debug/AdsPayrollTest.csproj.FilesWrittenAbsolute.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -299,12 +278,20 @@
       <workItem from="1485618888421" duration="4707000" />
       <workItem from="1485660264971" duration="1582000" />
       <workItem from="1487171415976" duration="465000" />
-      <workItem from="1487171933985" duration="3769000" />
+      <workItem from="1487171933985" duration="3807000" />
     </task>
+    <task id="LOCAL-00001" summary="blah">
+      <created>1487185694791</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1487185694791</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10523000" />
+    <option name="totallyTimeSpent" value="10561000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -347,7 +334,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="blah" />
+    <option name="LAST_COMMIT_MESSAGE" value="blah" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
