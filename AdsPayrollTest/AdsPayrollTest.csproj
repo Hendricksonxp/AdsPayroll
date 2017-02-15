@@ -92,6 +92,7 @@
     <Compile Include="DollarsTest.cs" />
     <Compile Include="HookUpFixture.cs" />
     <Compile Include="HookUpTest.cs" />
+    <Compile Include="PayrollTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

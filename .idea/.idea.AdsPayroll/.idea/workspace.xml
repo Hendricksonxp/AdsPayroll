@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8cb0bfe5-6644-437f-8792-c20b15023c5e" name="Default" comment="" />
+    <list default="true" id="8cb0bfe5-6644-437f-8792-c20b15023c5e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AdsPayroll/Employee.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AdsPayroll/Employees.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AdsPayroll/Payment.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AdsPayroll/Payments.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AdsPayroll/Payroll.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AdsPayrollTest/PayrollTest.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayroll/bin/Debug/AdsPayroll.dll" afterPath="$PROJECT_DIR$/AdsPayroll/bin/Debug/AdsPayroll.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayroll/bin/Debug/AdsPayroll.dll.mdb" afterPath="$PROJECT_DIR$/AdsPayroll/bin/Debug/AdsPayroll.dll.mdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayroll/obj/Debug/AdsPayroll.dll" afterPath="$PROJECT_DIR$/AdsPayroll/obj/Debug/AdsPayroll.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayroll/obj/Debug/AdsPayroll.dll.mdb" afterPath="$PROJECT_DIR$/AdsPayroll/obj/Debug/AdsPayroll.dll.mdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayrollTest/bin/Debug/AdsPayroll.dll" afterPath="$PROJECT_DIR$/AdsPayrollTest/bin/Debug/AdsPayroll.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayrollTest/bin/Debug/AdsPayroll.dll.mdb" afterPath="$PROJECT_DIR$/AdsPayrollTest/bin/Debug/AdsPayroll.dll.mdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayrollTest/bin/Debug/AdsPayrollTest.dll" afterPath="$PROJECT_DIR$/AdsPayrollTest/bin/Debug/AdsPayrollTest.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayrollTest/bin/Debug/AdsPayrollTest.dll.mdb" afterPath="$PROJECT_DIR$/AdsPayrollTest/bin/Debug/AdsPayrollTest.dll.mdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayrollTest/obj/Debug/AdsPayrollTest.dll" afterPath="$PROJECT_DIR$/AdsPayrollTest/obj/Debug/AdsPayrollTest.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayrollTest/obj/Debug/AdsPayrollTest.dll.mdb" afterPath="$PROJECT_DIR$/AdsPayrollTest/obj/Debug/AdsPayrollTest.dll.mdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.AdsPayroll/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.AdsPayroll/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayroll/AdsPayroll.csproj" afterPath="$PROJECT_DIR$/AdsPayroll/AdsPayroll.csproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayroll/obj/Debug/AdsPayroll.csproj.FilesWrittenAbsolute.txt" afterPath="$PROJECT_DIR$/AdsPayroll/obj/Debug/AdsPayroll.csproj.FilesWrittenAbsolute.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayrollTest/AdsPayrollTest.csproj" afterPath="$PROJECT_DIR$/AdsPayrollTest/AdsPayrollTest.csproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayrollTest/HookUpTest.cs" afterPath="$PROJECT_DIR$/AdsPayrollTest/HookUpTest.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayrollTest/obj/Debug/AdsPayrollTest.csproj.FilesWrittenAbsolute.txt" afterPath="$PROJECT_DIR$/AdsPayrollTest/obj/Debug/AdsPayrollTest.csproj.FilesWrittenAbsolute.txt" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,23 +38,126 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DollarsTest.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DollarsTest.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AdsPayrollTest/DollarsTest.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="52" lean-forward="false" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
+            <state relative-caret-position="391">
+              <caret line="23" column="51" lean-forward="false" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
               <folding>
-                <marker date="1485661988000" expanded="true" signature="6:40" ph="..." />
-                <marker date="1485661988000" expanded="true" signature="66:2207" ph="{...}" />
-                <marker date="1485661988000" expanded="true" signature="90:2205" ph="{...}" />
-                <marker date="1485661988000" expanded="true" signature="146:488" ph="{...}" />
-                <marker date="1485661988000" expanded="true" signature="542:884" ph="{...}" />
-                <marker date="1485661988000" expanded="true" signature="948:1130" ph="{...}" />
-                <marker date="1485661988000" expanded="true" signature="1190:1368" ph="{...}" />
-                <marker date="1485661988000" expanded="true" signature="1425:1555" ph="{...}" />
-                <marker date="1485661988000" expanded="true" signature="1609:1740" ph="{...}" />
-                <marker date="1485661988000" expanded="true" signature="1795:1965" ph="{...}" />
-                <marker date="1485661988000" expanded="true" signature="2025:2190" ph="{...}" />
+                <marker date="1487171406000" expanded="true" signature="6:40" ph="..." />
+                <marker date="1487171406000" expanded="true" signature="66:2254" ph="{...}" />
+                <marker date="1487171406000" expanded="true" signature="90:2252" ph="{...}" />
+                <marker date="1487171406000" expanded="true" signature="146:488" ph="{...}" />
+                <marker date="1487171406000" expanded="true" signature="542:884" ph="{...}" />
+                <marker date="1487171406000" expanded="true" signature="948:1130" ph="{...}" />
+                <marker date="1487171406000" expanded="true" signature="1190:1368" ph="{...}" />
+                <marker date="1487171406000" expanded="true" signature="1425:1555" ph="{...}" />
+                <marker date="1487171406000" expanded="true" signature="1609:1740" ph="{...}" />
+                <marker date="1487171406000" expanded="true" signature="1795:1965" ph="{...}" />
+                <marker date="1487171406000" expanded="true" signature="2025:2237" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HookUpTest.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AdsPayrollTest/HookUpTest.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="17" />
+              <folding>
+                <marker date="1487174815000" expanded="true" signature="6:54" ph="..." />
+                <marker date="1487174815000" expanded="true" signature="80:467" ph="{...}" />
+                <marker date="1487174815000" expanded="true" signature="110:465" ph="{...}" />
+                <marker date="1487174815000" expanded="true" signature="160:213" ph="{...}" />
+                <marker date="1487174815000" expanded="true" signature="261:450" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PayrollTest.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AdsPayrollTest/PayrollTest.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="31" lean-forward="false" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+              <folding>
+                <marker date="1487185537000" expanded="true" signature="6:82" ph="..." />
+                <marker date="1487185537000" expanded="true" signature="139:687" ph="{...}" />
+                <marker date="1487185537000" expanded="true" signature="193:680" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Employee.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AdsPayroll/Employee.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="32" lean-forward="false" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+              <folding>
+                <marker date="1487185419000" expanded="true" signature="20:682" ph="{...}" />
+                <marker date="1487185419000" expanded="true" signature="48:680" ph="{...}" />
+                <marker date="1487185419000" expanded="true" signature="292:479" ph="{...}" />
+                <marker date="1487185419000" expanded="true" signature="510:553" ph="{...}" />
+                <marker date="1487185419000" expanded="true" signature="605:674" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Payments.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AdsPayroll/Payments.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+              <folding>
+                <marker date="1487185306000" expanded="true" signature="20:199" ph="{...}" />
+                <marker date="1487185306000" expanded="true" signature="48:197" ph="{...}" />
+                <marker date="1487185306000" expanded="true" signature="137:191" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Payment.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AdsPayroll/Payment.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+              <folding>
+                <marker date="1487185510000" expanded="true" signature="20:161" ph="{...}" />
+                <marker date="1487185510000" expanded="true" signature="47:159" ph="{...}" />
+                <marker date="1487185510000" expanded="true" signature="88:153" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Payroll.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AdsPayroll/Payroll.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding>
+                <marker date="1487176957000" expanded="true" signature="20:278" ph="{...}" />
+                <marker date="1487176957000" expanded="true" signature="47:276" ph="{...}" />
+                <marker date="1487176957000" expanded="true" signature="151:208" ph="{...}" />
+                <marker date="1487176957000" expanded="true" signature="249:270" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Employees.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AdsPayroll/Employees.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="40" lean-forward="false" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+              <folding>
+                <marker date="1487176957000" expanded="true" signature="55:305" ph="{...}" />
+                <marker date="1487176957000" expanded="true" signature="84:303" ph="{...}" />
+                <marker date="1487176957000" expanded="true" signature="221:297" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -40,42 +166,22 @@
       <file leaf-file-name="Dollars.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AdsPayroll/Dollars.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="464">
+            <state relative-caret-position="576">
               <caret line="140" column="9" lean-forward="false" selection-start-line="140" selection-start-column="9" selection-end-line="140" selection-end-column="9" />
-              <folding>
-                <marker date="1485662071000" expanded="true" signature="6:64" ph="..." />
-                <marker date="1485662071000" expanded="true" signature="86:4134" ph="{...}" />
-                <marker date="1485662071000" expanded="true" signature="136:4132" ph="{...}" />
-                <marker date="1485662071000" expanded="true" signature="211:275" ph="{...}" />
-                <marker date="1485662071000" expanded="true" signature="313:361" ph="{...}" />
-                <marker date="1485662071000" expanded="true" signature="414:527" ph="{...}" />
-                <marker date="1485662071000" expanded="true" signature="580:653" ph="{...}" />
-                <marker date="1485662071000" expanded="true" signature="705:775" ph="{...}" />
-                <marker date="1485662071000" expanded="true" signature="814:970" ph="{...}" />
-                <marker date="1485662071000" expanded="true" signature="1051:1563" ph="{...}" />
-                <marker date="1485662071000" expanded="true" signature="1114:1428" ph="{...}" />
-                <marker date="1485662071000" expanded="true" signature="1477:1553" ph="{...}" />
-                <marker date="1485662071000" expanded="true" signature="1716:1956" ph="{...}" />
-                <marker date="1485662071000" expanded="true" signature="1999:2059" ph="{...}" />
-                <marker date="1485662071000" expanded="true" signature="2097:2154" ph="{...}" />
-                <marker date="1485662071000" expanded="true" signature="2211:2285" ph="{...}" />
-                <marker date="1485662071000" expanded="true" signature="2341:2402" ph="{...}" />
-                <marker date="1485662071000" expanded="true" signature="2447:2628" ph="{...}" />
-                <marker date="1485662071000" expanded="true" signature="2696:2787" ph="{...}" />
-                <marker date="1485662071000" expanded="true" signature="2855:2946" ph="{...}" />
-                <marker date="1485662071000" expanded="true" signature="3015:3107" ph="{...}" />
-                <marker date="1485662071000" expanded="true" signature="3176:3268" ph="{...}" />
-                <marker date="1485662071000" expanded="true" signature="3353:3445" ph="{...}" />
-                <marker date="1485662071000" expanded="true" signature="3526:3614" ph="{...}" />
-                <marker date="1485662071000" expanded="true" signature="3698:3783" ph="{...}" />
-                <marker date="1485662071000" expanded="true" signature="3863:3948" ph="{...}" />
-                <marker date="1485662071000" expanded="true" signature="4031:4126" ph="{...}" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Chet Hendrickson &lt;chet@hendricksonxp.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -83,6 +189,13 @@
         <option value="$PROJECT_DIR$/AdsPayrollTest/NodaMoneyTest.cs" />
         <option value="$PROJECT_DIR$/AdsPayrollTest/DollarsTest.cs" />
         <option value="$PROJECT_DIR$/AdsPayroll/Dollars.cs" />
+        <option value="$PROJECT_DIR$/AdsPayrollTest/HookUpTest.cs" />
+        <option value="$PROJECT_DIR$/AdsPayroll/Employees.cs" />
+        <option value="$PROJECT_DIR$/AdsPayroll/Payroll.cs" />
+        <option value="$PROJECT_DIR$/AdsPayroll/Payments.cs" />
+        <option value="$PROJECT_DIR$/AdsPayroll/Employee.cs" />
+        <option value="$PROJECT_DIR$/AdsPayroll/Payment.cs" />
+        <option value="$PROJECT_DIR$/AdsPayrollTest/PayrollTest.cs" />
       </list>
     </option>
   </component>
@@ -92,6 +205,7 @@
     <option name="width" value="1260" />
     <option name="height" value="733" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <flattenPackages />
@@ -116,6 +230,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="AdsPayroll (2 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AdsPayrollTest" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AdsPayroll (2 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AdsPayroll" />
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
           </PATH>
@@ -166,11 +298,13 @@
       <updated>1485618884476</updated>
       <workItem from="1485618888421" duration="4707000" />
       <workItem from="1485660264971" duration="1582000" />
+      <workItem from="1487171415976" duration="465000" />
+      <workItem from="1487171933985" duration="3769000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6289000" />
+    <option name="totallyTimeSpent" value="10523000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -185,18 +319,19 @@
     <frame x="14" y="33" width="1260" height="733" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Errors in solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5063492" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="UnitTesting" active="false" anchor="bottom" auto_hide="true" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.4936508" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -211,6 +346,9 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <option name="time" value="4" />
@@ -220,20 +358,98 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/AdsPayrollTest/DollarsTest.cs">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="52" lean-forward="false" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
+          <folding>
+            <marker date="1487171406000" expanded="true" signature="6:40" ph="..." />
+            <marker date="1487171406000" expanded="true" signature="66:2254" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="90:2252" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="146:488" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="542:884" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="948:1130" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="1190:1368" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="1425:1555" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="1609:1740" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="1795:1965" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="2025:2237" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdsPayrollTest/PayrollTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdsPayrollTest/HookUpTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <marker date="1487174815000" expanded="true" signature="6:54" ph="..." />
+            <marker date="1487174815000" expanded="true" signature="80:467" ph="{...}" />
+            <marker date="1487174815000" expanded="true" signature="110:465" ph="{...}" />
+            <marker date="1487174815000" expanded="true" signature="160:213" ph="{...}" />
+            <marker date="1487174815000" expanded="true" signature="261:450" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdsPayroll/Dollars.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2380">
+          <caret line="140" column="9" lean-forward="false" selection-start-line="140" selection-start-column="9" selection-end-line="140" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdsPayrollTest/DollarsTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1485661988000" expanded="true" signature="6:40" ph="..." />
-            <marker date="1485661988000" expanded="true" signature="66:2207" ph="{...}" />
-            <marker date="1485661988000" expanded="true" signature="90:2205" ph="{...}" />
-            <marker date="1485661988000" expanded="true" signature="146:488" ph="{...}" />
-            <marker date="1485661988000" expanded="true" signature="542:884" ph="{...}" />
-            <marker date="1485661988000" expanded="true" signature="948:1130" ph="{...}" />
-            <marker date="1485661988000" expanded="true" signature="1190:1368" ph="{...}" />
-            <marker date="1485661988000" expanded="true" signature="1425:1555" ph="{...}" />
-            <marker date="1485661988000" expanded="true" signature="1609:1740" ph="{...}" />
-            <marker date="1485661988000" expanded="true" signature="1795:1965" ph="{...}" />
-            <marker date="1485661988000" expanded="true" signature="2025:2190" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="6:40" ph="..." />
+            <marker date="1487171406000" expanded="true" signature="66:2254" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="90:2252" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="146:488" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="542:884" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="948:1130" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="1190:1368" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="1425:1555" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="1609:1740" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="1795:1965" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="2025:2237" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdsPayroll/Dollars.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2380">
+          <caret line="140" column="9" lean-forward="false" selection-start-line="140" selection-start-column="9" selection-end-line="140" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdsPayrollTest/DollarsTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1487171406000" expanded="true" signature="6:40" ph="..." />
+            <marker date="1487171406000" expanded="true" signature="66:2254" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="90:2252" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="146:488" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="542:884" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="948:1130" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="1190:1368" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="1425:1555" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="1609:1740" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="1795:1965" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="2025:2237" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -242,35 +458,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2363">
           <caret line="139" column="36" lean-forward="false" selection-start-line="139" selection-start-column="36" selection-end-line="139" selection-end-column="36" />
-          <folding>
-            <marker date="1485662071000" expanded="true" signature="6:64" ph="..." />
-            <marker date="1485662071000" expanded="true" signature="86:4134" ph="{...}" />
-            <marker date="1485662071000" expanded="true" signature="136:4132" ph="{...}" />
-            <marker date="1485662071000" expanded="true" signature="211:275" ph="{...}" />
-            <marker date="1485662071000" expanded="true" signature="313:361" ph="{...}" />
-            <marker date="1485662071000" expanded="true" signature="414:527" ph="{...}" />
-            <marker date="1485662071000" expanded="true" signature="580:653" ph="{...}" />
-            <marker date="1485662071000" expanded="true" signature="705:775" ph="{...}" />
-            <marker date="1485662071000" expanded="true" signature="814:970" ph="{...}" />
-            <marker date="1485662071000" expanded="true" signature="1051:1563" ph="{...}" />
-            <marker date="1485662071000" expanded="true" signature="1114:1428" ph="{...}" />
-            <marker date="1485662071000" expanded="true" signature="1477:1553" ph="{...}" />
-            <marker date="1485662071000" expanded="true" signature="1716:1956" ph="{...}" />
-            <marker date="1485662071000" expanded="true" signature="1999:2059" ph="{...}" />
-            <marker date="1485662071000" expanded="true" signature="2097:2154" ph="{...}" />
-            <marker date="1485662071000" expanded="true" signature="2211:2285" ph="{...}" />
-            <marker date="1485662071000" expanded="true" signature="2341:2402" ph="{...}" />
-            <marker date="1485662071000" expanded="true" signature="2447:2628" ph="{...}" />
-            <marker date="1485662071000" expanded="true" signature="2696:2787" ph="{...}" />
-            <marker date="1485662071000" expanded="true" signature="2855:2946" ph="{...}" />
-            <marker date="1485662071000" expanded="true" signature="3015:3107" ph="{...}" />
-            <marker date="1485662071000" expanded="true" signature="3176:3268" ph="{...}" />
-            <marker date="1485662071000" expanded="true" signature="3353:3445" ph="{...}" />
-            <marker date="1485662071000" expanded="true" signature="3526:3614" ph="{...}" />
-            <marker date="1485662071000" expanded="true" signature="3698:3783" ph="{...}" />
-            <marker date="1485662071000" expanded="true" signature="3863:3948" ph="{...}" />
-            <marker date="1485662071000" expanded="true" signature="4031:4126" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -281,58 +469,127 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AdsPayroll/Dollars.cs">
+    <entry file="file://$PROJECT_DIR$/AdsPayrollTest/DollarsTest.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="140" column="9" lean-forward="false" selection-start-line="140" selection-start-column="9" selection-end-line="140" selection-end-column="9" />
+        <state relative-caret-position="391">
+          <caret line="23" column="51" lean-forward="false" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
           <folding>
-            <marker date="1485662071000" expanded="true" signature="6:64" ph="..." />
-            <marker date="1485662071000" expanded="true" signature="86:4134" ph="{...}" />
-            <marker date="1485662071000" expanded="true" signature="136:4132" ph="{...}" />
-            <marker date="1485662071000" expanded="true" signature="211:275" ph="{...}" />
-            <marker date="1485662071000" expanded="true" signature="313:361" ph="{...}" />
-            <marker date="1485662071000" expanded="true" signature="414:527" ph="{...}" />
-            <marker date="1485662071000" expanded="true" signature="580:653" ph="{...}" />
-            <marker date="1485662071000" expanded="true" signature="705:775" ph="{...}" />
-            <marker date="1485662071000" expanded="true" signature="814:970" ph="{...}" />
-            <marker date="1485662071000" expanded="true" signature="1051:1563" ph="{...}" />
-            <marker date="1485662071000" expanded="true" signature="1114:1428" ph="{...}" />
-            <marker date="1485662071000" expanded="true" signature="1477:1553" ph="{...}" />
-            <marker date="1485662071000" expanded="true" signature="1716:1956" ph="{...}" />
-            <marker date="1485662071000" expanded="true" signature="1999:2059" ph="{...}" />
-            <marker date="1485662071000" expanded="true" signature="2097:2154" ph="{...}" />
-            <marker date="1485662071000" expanded="true" signature="2211:2285" ph="{...}" />
-            <marker date="1485662071000" expanded="true" signature="2341:2402" ph="{...}" />
-            <marker date="1485662071000" expanded="true" signature="2447:2628" ph="{...}" />
-            <marker date="1485662071000" expanded="true" signature="2696:2787" ph="{...}" />
-            <marker date="1485662071000" expanded="true" signature="2855:2946" ph="{...}" />
-            <marker date="1485662071000" expanded="true" signature="3015:3107" ph="{...}" />
-            <marker date="1485662071000" expanded="true" signature="3176:3268" ph="{...}" />
-            <marker date="1485662071000" expanded="true" signature="3353:3445" ph="{...}" />
-            <marker date="1485662071000" expanded="true" signature="3526:3614" ph="{...}" />
-            <marker date="1485662071000" expanded="true" signature="3698:3783" ph="{...}" />
-            <marker date="1485662071000" expanded="true" signature="3863:3948" ph="{...}" />
-            <marker date="1485662071000" expanded="true" signature="4031:4126" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="6:40" ph="..." />
+            <marker date="1487171406000" expanded="true" signature="66:2254" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="90:2252" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="146:488" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="542:884" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="948:1130" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="1190:1368" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="1425:1555" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="1609:1740" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="1795:1965" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="2025:2237" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AdsPayrollTest/DollarsTest.cs">
+    <entry file="file://$PROJECT_DIR$/AdsPayrollTest/HookUpTest.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="52" lean-forward="false" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="17" />
           <folding>
-            <marker date="1485661988000" expanded="true" signature="6:40" ph="..." />
-            <marker date="1485661988000" expanded="true" signature="66:2207" ph="{...}" />
-            <marker date="1485661988000" expanded="true" signature="90:2205" ph="{...}" />
-            <marker date="1485661988000" expanded="true" signature="146:488" ph="{...}" />
-            <marker date="1485661988000" expanded="true" signature="542:884" ph="{...}" />
-            <marker date="1485661988000" expanded="true" signature="948:1130" ph="{...}" />
-            <marker date="1485661988000" expanded="true" signature="1190:1368" ph="{...}" />
-            <marker date="1485661988000" expanded="true" signature="1425:1555" ph="{...}" />
-            <marker date="1485661988000" expanded="true" signature="1609:1740" ph="{...}" />
-            <marker date="1485661988000" expanded="true" signature="1795:1965" ph="{...}" />
-            <marker date="1485661988000" expanded="true" signature="2025:2190" ph="{...}" />
+            <marker date="1487174815000" expanded="true" signature="6:54" ph="..." />
+            <marker date="1487174815000" expanded="true" signature="80:467" ph="{...}" />
+            <marker date="1487174815000" expanded="true" signature="110:465" ph="{...}" />
+            <marker date="1487174815000" expanded="true" signature="160:213" ph="{...}" />
+            <marker date="1487174815000" expanded="true" signature="261:450" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdsPayroll/Employees.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="40" lean-forward="false" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+          <folding>
+            <marker date="1487176957000" expanded="true" signature="55:305" ph="{...}" />
+            <marker date="1487176957000" expanded="true" signature="84:303" ph="{...}" />
+            <marker date="1487176957000" expanded="true" signature="221:297" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdsPayroll/Dollars.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="140" column="9" lean-forward="false" selection-start-line="140" selection-start-column="9" selection-end-line="140" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdsPayroll/Payroll.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <marker date="1487176957000" expanded="true" signature="20:278" ph="{...}" />
+            <marker date="1487176957000" expanded="true" signature="47:276" ph="{...}" />
+            <marker date="1487176957000" expanded="true" signature="151:208" ph="{...}" />
+            <marker date="1487176957000" expanded="true" signature="249:270" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdsPayroll/Payments.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+          <folding>
+            <marker date="1487185306000" expanded="true" signature="20:199" ph="{...}" />
+            <marker date="1487185306000" expanded="true" signature="48:197" ph="{...}" />
+            <marker date="1487185306000" expanded="true" signature="137:191" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdsPayroll/Employee.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="32" lean-forward="false" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+          <folding>
+            <marker date="1487185419000" expanded="true" signature="20:682" ph="{...}" />
+            <marker date="1487185419000" expanded="true" signature="48:680" ph="{...}" />
+            <marker date="1487185419000" expanded="true" signature="292:479" ph="{...}" />
+            <marker date="1487185419000" expanded="true" signature="510:553" ph="{...}" />
+            <marker date="1487185419000" expanded="true" signature="605:674" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdsPayroll/Payment.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <marker date="1487185510000" expanded="true" signature="20:161" ph="{...}" />
+            <marker date="1487185510000" expanded="true" signature="47:159" ph="{...}" />
+            <marker date="1487185510000" expanded="true" signature="88:153" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdsPayrollTest/AdsPayrollTest.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="19" column="50" lean-forward="true" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdsPayrollTest/PayrollTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="31" lean-forward="false" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+          <folding>
+            <marker date="1487185537000" expanded="true" signature="6:82" ph="..." />
+            <marker date="1487185537000" expanded="true" signature="139:687" ph="{...}" />
+            <marker date="1487185537000" expanded="true" signature="193:680" ph="{...}" />
           </folding>
         </state>
       </provider>
