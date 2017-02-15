@@ -12,5 +12,10 @@
         {
 
         }
+
+        public int PayCount()
+        {
+            return -1;
+        }
     }
 }
