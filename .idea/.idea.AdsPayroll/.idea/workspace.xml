@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8cb0bfe5-6644-437f-8792-c20b15023c5e" name="Default" comment="blah">
+    <list default="true" id="8cb0bfe5-6644-437f-8792-c20b15023c5e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.AdsPayroll/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.AdsPayroll/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayroll/Employee.cs" afterPath="$PROJECT_DIR$/AdsPayroll/Employee.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayroll/Payments.cs" afterPath="$PROJECT_DIR$/AdsPayroll/Payments.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayroll/Payroll.cs" afterPath="$PROJECT_DIR$/AdsPayroll/Payroll.cs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayrollTest/PayrollFixture.cs" afterPath="$PROJECT_DIR$/AdsPayrollTest/PayrollFixture.cs" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,81 +15,30 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HookUpTest.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AdsPayrollTest/HookUpTest.cs">
+      <file leaf-file-name="DollarsTest.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AdsPayrollTest/DollarsTest.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="17" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1487174815000" expanded="true" signature="6:54" ph="..." />
-                <marker date="1487174815000" expanded="true" signature="80:467" ph="{...}" />
-                <marker date="1487174815000" expanded="true" signature="110:465" ph="{...}" />
-                <marker date="1487174815000" expanded="true" signature="160:213" ph="{...}" />
-                <marker date="1487174815000" expanded="true" signature="261:450" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PayrollTest.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AdsPayrollTest/PayrollTest.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-              <folding>
-                <marker date="1487185537000" expanded="true" signature="6:82" ph="..." />
-                <marker date="1487185537000" expanded="true" signature="139:687" ph="{...}" />
-                <marker date="1487185537000" expanded="true" signature="193:680" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PayrollFixture.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AdsPayrollTest/PayrollFixture.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="41" column="49" lean-forward="false" selection-start-line="41" selection-start-column="49" selection-end-line="41" selection-end-column="49" />
-              <folding>
-                <marker date="1487205567000" expanded="true" signature="327:409" ph="{...}" />
-                <marker date="1487205567000" expanded="true" signature="640:738" ph="{...}" />
-                <marker date="1487205567000" expanded="true" signature="768:889" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Employee.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AdsPayroll/Employee.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="542">
-              <caret line="37" column="36" lean-forward="false" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
-              <folding>
-                <marker date="1487205803000" expanded="true" signature="20:866" ph="{...}" />
-                <marker date="1487205803000" expanded="true" signature="48:864" ph="{...}" />
-                <marker date="1487205803000" expanded="true" signature="292:479" ph="{...}" />
-                <marker date="1487205803000" expanded="true" signature="510:553" ph="{...}" />
-                <marker date="1487205803000" expanded="true" signature="605:674" ph="{...}" />
-                <marker date="1487205803000" expanded="true" signature="707:752" ph="{...}" />
-                <marker date="1487205803000" expanded="true" signature="796:858" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Payments.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AdsPayroll/Payments.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-              <folding>
-                <marker date="1487205782000" expanded="true" signature="20:285" ph="{...}" />
-                <marker date="1487205782000" expanded="true" signature="48:283" ph="{...}" />
-                <marker date="1487205782000" expanded="true" signature="137:191" ph="{...}" />
-                <marker date="1487205782000" expanded="true" signature="228:277" ph="{...}" />
+                <marker date="1487171406000" expanded="true" signature="6:40" ph="..." />
+                <marker date="1487171406000" expanded="true" signature="66:2254" ph="{...}" />
+                <marker date="1487171406000" expanded="true" signature="90:2252" ph="{...}" />
+                <marker date="1487171406000" expanded="true" signature="146:488" ph="{...}" />
+                <marker date="1487171406000" expanded="true" signature="542:884" ph="{...}" />
+                <marker date="1487171406000" expanded="true" signature="948:1130" ph="{...}" />
+                <marker date="1487171406000" expanded="true" signature="1190:1368" ph="{...}" />
+                <marker date="1487171406000" expanded="true" signature="1425:1555" ph="{...}" />
+                <marker date="1487171406000" expanded="true" signature="1609:1740" ph="{...}" />
+                <marker date="1487171406000" expanded="true" signature="1795:1965" ph="{...}" />
+                <marker date="1487171406000" expanded="true" signature="2025:2237" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -120,17 +66,17 @@
         <option value="$PROJECT_DIR$/AdsPayrollTest/PayrollTest.cs" />
         <option value="$PROJECT_DIR$/AdsPayrollTest/HookUpFixture.cs" />
         <option value="$PROJECT_DIR$/AdsPayroll/Payroll.cs" />
-        <option value="$PROJECT_DIR$/AdsPayrollTest/PayrollFixture.cs" />
         <option value="$PROJECT_DIR$/AdsPayroll/Employee.cs" />
         <option value="$PROJECT_DIR$/AdsPayroll/Payments.cs" />
+        <option value="$PROJECT_DIR$/AdsPayrollTest/PayrollFixture.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="14" />
-    <option name="y" value="33" />
+    <option name="y" value="23" />
     <option name="width" value="1260" />
-    <option name="height" value="733" />
+    <option name="height" value="743" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -157,24 +103,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="AdsPayroll (2 projects)" />
-              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AdsPayrollTest" />
-              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" />
-              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AdsPayroll (2 projects)" />
-              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AdsPayroll" />
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
           </PATH>
@@ -213,6 +141,18 @@
       <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
     </list>
   </component>
+  <component name="RuntimeDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
@@ -226,7 +166,10 @@
       <workItem from="1485618888421" duration="4707000" />
       <workItem from="1485660264971" duration="1582000" />
       <workItem from="1487171415976" duration="465000" />
-      <workItem from="1487171933985" duration="7430000" />
+      <workItem from="1487171933985" duration="7630000" />
+      <workItem from="1487255146745" duration="606000" />
+      <workItem from="1487263982048" duration="130000" />
+      <workItem from="1487264548107" duration="548000" />
     </task>
     <task id="LOCAL-00001" summary="blah">
       <created>1487185694791</created>
@@ -256,11 +199,18 @@
       <option name="project" value="LOCAL" />
       <updated>1487194004852</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="blah">
+      <created>1487211585243</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1487211585243</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14184000" />
+    <option name="totallyTimeSpent" value="15668000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -272,31 +222,34 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="14" y="33" width="1260" height="733" extended-state="0" />
+    <frame x="14" y="23" width="1260" height="743" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Errors in solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5063492" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="UnitTesting" active="false" anchor="bottom" auto_hide="true" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.4936508" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5063492" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors in solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="UnitTesting" active="false" anchor="bottom" auto_hide="true" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -315,6 +268,88 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/AdsPayrollTest/DollarsTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1487171406000" expanded="true" signature="6:40" ph="..." />
+            <marker date="1487171406000" expanded="true" signature="66:2254" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="90:2252" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="146:488" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="542:884" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="948:1130" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="1190:1368" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="1425:1555" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="1609:1740" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="1795:1965" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="2025:2237" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdsPayrollTest/PayrollTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdsPayrollTest/DollarsTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="53" lean-forward="true" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
+          <folding>
+            <marker date="1487171406000" expanded="true" signature="6:40" ph="..." />
+            <marker date="1487171406000" expanded="true" signature="66:2254" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="90:2252" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="146:488" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="542:884" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="948:1130" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="1190:1368" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="1425:1555" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="1609:1740" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="1795:1965" ph="{...}" />
+            <marker date="1487171406000" expanded="true" signature="2025:2237" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdsPayrollTest/HookUpTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdsPayrollTest/PayrollTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdsPayrollTest/PayrollFixture.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="49" lean-forward="false" selection-start-line="41" selection-start-column="49" selection-end-line="41" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdsPayroll/Employee.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="36" lean-forward="false" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdsPayroll/Payments.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/AdsPayrollTest/DollarsTest.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -339,7 +374,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -347,13 +381,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <marker date="1487174815000" expanded="true" signature="6:54" ph="..." />
-            <marker date="1487174815000" expanded="true" signature="80:467" ph="{...}" />
-            <marker date="1487174815000" expanded="true" signature="110:465" ph="{...}" />
-            <marker date="1487174815000" expanded="true" signature="160:213" ph="{...}" />
-            <marker date="1487174815000" expanded="true" signature="261:450" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -361,7 +388,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2380">
           <caret line="140" column="9" lean-forward="false" selection-start-line="140" selection-start-column="9" selection-end-line="140" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -389,7 +415,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2380">
           <caret line="140" column="9" lean-forward="false" selection-start-line="140" selection-start-column="9" selection-end-line="140" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -417,7 +442,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2363">
           <caret line="139" column="36" lean-forward="false" selection-start-line="139" selection-start-column="36" selection-end-line="139" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -428,10 +452,87 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/AdsPayrollTest/HookUpTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdsPayroll/Dollars.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="140" column="9" lean-forward="false" selection-start-line="140" selection-start-column="9" selection-end-line="140" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdsPayrollTest/AdsPayrollTest.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="19" column="50" lean-forward="true" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdsPayroll/Payroll.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="46" lean-forward="false" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdsPayrollTest/HookUpFixture.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdsPayroll/Payment.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdsPayroll/Employees.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="40" lean-forward="false" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdsPayrollTest/PayrollFixture.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" column="63" lean-forward="false" selection-start-line="51" selection-start-column="63" selection-end-line="51" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdsPayroll/Employee.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="542">
+          <caret line="37" column="36" lean-forward="false" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdsPayroll/Payments.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdsPayrollTest/PayrollTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/AdsPayrollTest/DollarsTest.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="51" lean-forward="false" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <marker date="1487171406000" expanded="true" signature="6:40" ph="..." />
             <marker date="1487171406000" expanded="true" signature="66:2254" ph="{...}" />
@@ -444,141 +545,6 @@
             <marker date="1487171406000" expanded="true" signature="1609:1740" ph="{...}" />
             <marker date="1487171406000" expanded="true" signature="1795:1965" ph="{...}" />
             <marker date="1487171406000" expanded="true" signature="2025:2237" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdsPayrollTest/HookUpTest.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="17" />
-          <folding>
-            <marker date="1487174815000" expanded="true" signature="6:54" ph="..." />
-            <marker date="1487174815000" expanded="true" signature="80:467" ph="{...}" />
-            <marker date="1487174815000" expanded="true" signature="110:465" ph="{...}" />
-            <marker date="1487174815000" expanded="true" signature="160:213" ph="{...}" />
-            <marker date="1487174815000" expanded="true" signature="261:450" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdsPayroll/Dollars.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="140" column="9" lean-forward="false" selection-start-line="140" selection-start-column="9" selection-end-line="140" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdsPayrollTest/AdsPayrollTest.csproj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="19" column="50" lean-forward="true" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdsPayroll/Payroll.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="46" lean-forward="false" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
-          <folding>
-            <marker date="1487198936000" expanded="true" signature="20:466" ph="{...}" />
-            <marker date="1487198936000" expanded="true" signature="47:464" ph="{...}" />
-            <marker date="1487198936000" expanded="true" signature="151:208" ph="{...}" />
-            <marker date="1487198936000" expanded="true" signature="249:270" ph="{...}" />
-            <marker date="1487198936000" expanded="true" signature="301:344" ph="{...}" />
-            <marker date="1487198936000" expanded="true" signature="392:458" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdsPayrollTest/HookUpFixture.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1487191251000" expanded="true" signature="6:31" ph="..." />
-            <marker date="1487191251000" expanded="true" signature="57:328" ph="{...}" />
-            <marker date="1487191251000" expanded="true" signature="91:326" ph="{...}" />
-            <marker date="1487191251000" expanded="true" signature="196:320" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdsPayrollTest/PayrollTest.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-          <folding>
-            <marker date="1487185537000" expanded="true" signature="6:82" ph="..." />
-            <marker date="1487185537000" expanded="true" signature="139:687" ph="{...}" />
-            <marker date="1487185537000" expanded="true" signature="193:680" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdsPayroll/Payment.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-          <folding>
-            <marker date="1487185510000" expanded="true" signature="20:161" ph="{...}" />
-            <marker date="1487185510000" expanded="true" signature="47:159" ph="{...}" />
-            <marker date="1487185510000" expanded="true" signature="88:153" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdsPayroll/Employees.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="40" lean-forward="false" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
-          <folding>
-            <marker date="1487176957000" expanded="true" signature="55:305" ph="{...}" />
-            <marker date="1487176957000" expanded="true" signature="84:303" ph="{...}" />
-            <marker date="1487176957000" expanded="true" signature="221:297" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdsPayrollTest/PayrollFixture.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="41" column="49" lean-forward="false" selection-start-line="41" selection-start-column="49" selection-end-line="41" selection-end-column="49" />
-          <folding>
-            <marker date="1487205567000" expanded="true" signature="327:409" ph="{...}" />
-            <marker date="1487205567000" expanded="true" signature="640:738" ph="{...}" />
-            <marker date="1487205567000" expanded="true" signature="768:889" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdsPayroll/Employee.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="542">
-          <caret line="37" column="36" lean-forward="false" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
-          <folding>
-            <marker date="1487205803000" expanded="true" signature="20:866" ph="{...}" />
-            <marker date="1487205803000" expanded="true" signature="48:864" ph="{...}" />
-            <marker date="1487205803000" expanded="true" signature="292:479" ph="{...}" />
-            <marker date="1487205803000" expanded="true" signature="510:553" ph="{...}" />
-            <marker date="1487205803000" expanded="true" signature="605:674" ph="{...}" />
-            <marker date="1487205803000" expanded="true" signature="707:752" ph="{...}" />
-            <marker date="1487205803000" expanded="true" signature="796:858" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdsPayroll/Payments.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-          <folding>
-            <marker date="1487205782000" expanded="true" signature="20:285" ph="{...}" />
-            <marker date="1487205782000" expanded="true" signature="48:283" ph="{...}" />
-            <marker date="1487205782000" expanded="true" signature="137:191" ph="{...}" />
-            <marker date="1487205782000" expanded="true" signature="228:277" ph="{...}" />
           </folding>
         </state>
       </provider>
