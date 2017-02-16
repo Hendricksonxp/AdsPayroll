@@ -27,5 +27,15 @@
         {
             return payments.PaymentFor(payDate);
         }
+
+        public string GetName()
+        {
+            return name;
+        }
+
+        public Payment GetCurrentPayment()
+        {
+            return payments.GetCurrent();
+        }
     }
 }

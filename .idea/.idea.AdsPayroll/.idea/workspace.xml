@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8cb0bfe5-6644-437f-8792-c20b15023c5e" name="Default" comment="">
+    <list default="true" id="8cb0bfe5-6644-437f-8792-c20b15023c5e" name="Default" comment="blah">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.AdsPayroll/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.AdsPayroll/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayroll/Employee.cs" afterPath="$PROJECT_DIR$/AdsPayroll/Employee.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayroll/Payments.cs" afterPath="$PROJECT_DIR$/AdsPayroll/Payments.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayroll/Payroll.cs" afterPath="$PROJECT_DIR$/AdsPayroll/Payroll.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayrollTest/PayrollFixture.cs" afterPath="$PROJECT_DIR$/AdsPayrollTest/PayrollFixture.cs" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -47,32 +51,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HookUpFixture.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AdsPayrollTest/HookUpFixture.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
-              <folding>
-                <marker date="1487191251000" expanded="true" signature="6:31" ph="..." />
-                <marker date="1487191251000" expanded="true" signature="57:328" ph="{...}" />
-                <marker date="1487191251000" expanded="true" signature="91:326" ph="{...}" />
-                <marker date="1487191251000" expanded="true" signature="196:320" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PayrollFixture.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PayrollFixture.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AdsPayrollTest/PayrollFixture.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+            <state relative-caret-position="440">
+              <caret line="41" column="49" lean-forward="false" selection-start-line="41" selection-start-column="49" selection-end-line="41" selection-end-column="49" />
               <folding>
-                <marker date="1487193989000" expanded="true" signature="43:691" ph="{...}" />
-                <marker date="1487193989000" expanded="true" signature="77:689" ph="{...}" />
-                <marker date="1487193989000" expanded="true" signature="277:359" ph="{...}" />
-                <marker date="1487193989000" expanded="true" signature="386:556" ph="{...}" />
-                <marker date="1487193989000" expanded="true" signature="582:680" ph="{...}" />
+                <marker date="1487205567000" expanded="true" signature="327:409" ph="{...}" />
+                <marker date="1487205567000" expanded="true" signature="640:738" ph="{...}" />
+                <marker date="1487205567000" expanded="true" signature="768:889" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -81,83 +68,32 @@
       <file leaf-file-name="Employee.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AdsPayroll/Employee.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="32" lean-forward="false" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+            <state relative-caret-position="542">
+              <caret line="37" column="36" lean-forward="false" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
               <folding>
-                <marker date="1487185419000" expanded="true" signature="20:682" ph="{...}" />
-                <marker date="1487185419000" expanded="true" signature="48:680" ph="{...}" />
-                <marker date="1487185419000" expanded="true" signature="292:479" ph="{...}" />
-                <marker date="1487185419000" expanded="true" signature="510:553" ph="{...}" />
-                <marker date="1487185419000" expanded="true" signature="605:674" ph="{...}" />
+                <marker date="1487205803000" expanded="true" signature="20:866" ph="{...}" />
+                <marker date="1487205803000" expanded="true" signature="48:864" ph="{...}" />
+                <marker date="1487205803000" expanded="true" signature="292:479" ph="{...}" />
+                <marker date="1487205803000" expanded="true" signature="510:553" ph="{...}" />
+                <marker date="1487205803000" expanded="true" signature="605:674" ph="{...}" />
+                <marker date="1487205803000" expanded="true" signature="707:752" ph="{...}" />
+                <marker date="1487205803000" expanded="true" signature="796:858" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Payments.cs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Payments.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AdsPayroll/Payments.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+            <state relative-caret-position="255">
+              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
               <folding>
-                <marker date="1487185306000" expanded="true" signature="20:199" ph="{...}" />
-                <marker date="1487185306000" expanded="true" signature="48:197" ph="{...}" />
-                <marker date="1487185306000" expanded="true" signature="137:191" ph="{...}" />
+                <marker date="1487205782000" expanded="true" signature="20:285" ph="{...}" />
+                <marker date="1487205782000" expanded="true" signature="48:283" ph="{...}" />
+                <marker date="1487205782000" expanded="true" signature="137:191" ph="{...}" />
+                <marker date="1487205782000" expanded="true" signature="228:277" ph="{...}" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Payment.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AdsPayroll/Payment.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-              <folding>
-                <marker date="1487185510000" expanded="true" signature="20:161" ph="{...}" />
-                <marker date="1487185510000" expanded="true" signature="47:159" ph="{...}" />
-                <marker date="1487185510000" expanded="true" signature="88:153" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Payroll.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AdsPayroll/Payroll.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-              <folding>
-                <marker date="1487193715000" expanded="true" signature="20:352" ph="{...}" />
-                <marker date="1487193715000" expanded="true" signature="47:350" ph="{...}" />
-                <marker date="1487193715000" expanded="true" signature="151:208" ph="{...}" />
-                <marker date="1487193715000" expanded="true" signature="249:270" ph="{...}" />
-                <marker date="1487193715000" expanded="true" signature="301:344" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Employees.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AdsPayroll/Employees.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="40" lean-forward="false" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
-              <folding>
-                <marker date="1487176957000" expanded="true" signature="55:305" ph="{...}" />
-                <marker date="1487176957000" expanded="true" signature="84:303" ph="{...}" />
-                <marker date="1487176957000" expanded="true" signature="221:297" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Dollars.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AdsPayroll/Dollars.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="140" column="9" lean-forward="false" selection-start-line="140" selection-start-column="9" selection-end-line="140" selection-end-column="9" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -180,13 +116,13 @@
         <option value="$PROJECT_DIR$/AdsPayroll/Dollars.cs" />
         <option value="$PROJECT_DIR$/AdsPayrollTest/HookUpTest.cs" />
         <option value="$PROJECT_DIR$/AdsPayroll/Employees.cs" />
-        <option value="$PROJECT_DIR$/AdsPayroll/Payments.cs" />
-        <option value="$PROJECT_DIR$/AdsPayroll/Employee.cs" />
         <option value="$PROJECT_DIR$/AdsPayroll/Payment.cs" />
         <option value="$PROJECT_DIR$/AdsPayrollTest/PayrollTest.cs" />
         <option value="$PROJECT_DIR$/AdsPayrollTest/HookUpFixture.cs" />
         <option value="$PROJECT_DIR$/AdsPayroll/Payroll.cs" />
         <option value="$PROJECT_DIR$/AdsPayrollTest/PayrollFixture.cs" />
+        <option value="$PROJECT_DIR$/AdsPayroll/Employee.cs" />
+        <option value="$PROJECT_DIR$/AdsPayroll/Payments.cs" />
       </list>
     </option>
   </component>
@@ -290,7 +226,7 @@
       <workItem from="1485618888421" duration="4707000" />
       <workItem from="1485660264971" duration="1582000" />
       <workItem from="1487171415976" duration="465000" />
-      <workItem from="1487171933985" duration="5253000" />
+      <workItem from="1487171933985" duration="7430000" />
     </task>
     <task id="LOCAL-00001" summary="blah">
       <created>1487185694791</created>
@@ -313,11 +249,18 @@
       <option name="project" value="LOCAL" />
       <updated>1487193989824</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="blah">
+      <created>1487194004851</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1487194004852</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12007000" />
+    <option name="totallyTimeSpent" value="14184000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -519,18 +462,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AdsPayroll/Employees.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="40" lean-forward="false" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
-          <folding>
-            <marker date="1487176957000" expanded="true" signature="55:305" ph="{...}" />
-            <marker date="1487176957000" expanded="true" signature="84:303" ph="{...}" />
-            <marker date="1487176957000" expanded="true" signature="221:297" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AdsPayroll/Dollars.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="576">
@@ -539,28 +470,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AdsPayroll/Payments.cs">
+    <entry file="file://$PROJECT_DIR$/AdsPayrollTest/AdsPayrollTest.csproj">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        <state relative-caret-position="306">
+          <caret line="19" column="50" lean-forward="true" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdsPayroll/Payroll.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="46" lean-forward="false" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
           <folding>
-            <marker date="1487185306000" expanded="true" signature="20:199" ph="{...}" />
-            <marker date="1487185306000" expanded="true" signature="48:197" ph="{...}" />
-            <marker date="1487185306000" expanded="true" signature="137:191" ph="{...}" />
+            <marker date="1487198936000" expanded="true" signature="20:466" ph="{...}" />
+            <marker date="1487198936000" expanded="true" signature="47:464" ph="{...}" />
+            <marker date="1487198936000" expanded="true" signature="151:208" ph="{...}" />
+            <marker date="1487198936000" expanded="true" signature="249:270" ph="{...}" />
+            <marker date="1487198936000" expanded="true" signature="301:344" ph="{...}" />
+            <marker date="1487198936000" expanded="true" signature="392:458" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AdsPayroll/Employee.cs">
+    <entry file="file://$PROJECT_DIR$/AdsPayrollTest/HookUpFixture.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="32" lean-forward="false" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1487185419000" expanded="true" signature="20:682" ph="{...}" />
-            <marker date="1487185419000" expanded="true" signature="48:680" ph="{...}" />
-            <marker date="1487185419000" expanded="true" signature="292:479" ph="{...}" />
-            <marker date="1487185419000" expanded="true" signature="510:553" ph="{...}" />
-            <marker date="1487185419000" expanded="true" signature="605:674" ph="{...}" />
+            <marker date="1487191251000" expanded="true" signature="6:31" ph="..." />
+            <marker date="1487191251000" expanded="true" signature="57:328" ph="{...}" />
+            <marker date="1487191251000" expanded="true" signature="91:326" ph="{...}" />
+            <marker date="1487191251000" expanded="true" signature="196:320" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdsPayrollTest/PayrollTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding>
+            <marker date="1487185537000" expanded="true" signature="6:82" ph="..." />
+            <marker date="1487185537000" expanded="true" signature="139:687" ph="{...}" />
+            <marker date="1487185537000" expanded="true" signature="193:680" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -577,63 +530,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AdsPayrollTest/AdsPayrollTest.csproj">
+    <entry file="file://$PROJECT_DIR$/AdsPayroll/Employees.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="19" column="50" lean-forward="true" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdsPayrollTest/PayrollTest.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        <state relative-caret-position="187">
+          <caret line="11" column="40" lean-forward="false" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
           <folding>
-            <marker date="1487185537000" expanded="true" signature="6:82" ph="..." />
-            <marker date="1487185537000" expanded="true" signature="139:687" ph="{...}" />
-            <marker date="1487185537000" expanded="true" signature="193:680" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdsPayrollTest/HookUpFixture.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
-          <folding>
-            <marker date="1487191251000" expanded="true" signature="6:31" ph="..." />
-            <marker date="1487191251000" expanded="true" signature="57:328" ph="{...}" />
-            <marker date="1487191251000" expanded="true" signature="91:326" ph="{...}" />
-            <marker date="1487191251000" expanded="true" signature="196:320" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdsPayroll/Payroll.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-          <folding>
-            <marker date="1487193715000" expanded="true" signature="20:352" ph="{...}" />
-            <marker date="1487193715000" expanded="true" signature="47:350" ph="{...}" />
-            <marker date="1487193715000" expanded="true" signature="151:208" ph="{...}" />
-            <marker date="1487193715000" expanded="true" signature="249:270" ph="{...}" />
-            <marker date="1487193715000" expanded="true" signature="301:344" ph="{...}" />
+            <marker date="1487176957000" expanded="true" signature="55:305" ph="{...}" />
+            <marker date="1487176957000" expanded="true" signature="84:303" ph="{...}" />
+            <marker date="1487176957000" expanded="true" signature="221:297" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AdsPayrollTest/PayrollFixture.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        <state relative-caret-position="440">
+          <caret line="41" column="49" lean-forward="false" selection-start-line="41" selection-start-column="49" selection-end-line="41" selection-end-column="49" />
           <folding>
-            <marker date="1487193989000" expanded="true" signature="43:691" ph="{...}" />
-            <marker date="1487193989000" expanded="true" signature="77:689" ph="{...}" />
-            <marker date="1487193989000" expanded="true" signature="277:359" ph="{...}" />
-            <marker date="1487193989000" expanded="true" signature="386:556" ph="{...}" />
-            <marker date="1487193989000" expanded="true" signature="582:680" ph="{...}" />
+            <marker date="1487205567000" expanded="true" signature="327:409" ph="{...}" />
+            <marker date="1487205567000" expanded="true" signature="640:738" ph="{...}" />
+            <marker date="1487205567000" expanded="true" signature="768:889" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdsPayroll/Employee.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="542">
+          <caret line="37" column="36" lean-forward="false" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
+          <folding>
+            <marker date="1487205803000" expanded="true" signature="20:866" ph="{...}" />
+            <marker date="1487205803000" expanded="true" signature="48:864" ph="{...}" />
+            <marker date="1487205803000" expanded="true" signature="292:479" ph="{...}" />
+            <marker date="1487205803000" expanded="true" signature="510:553" ph="{...}" />
+            <marker date="1487205803000" expanded="true" signature="605:674" ph="{...}" />
+            <marker date="1487205803000" expanded="true" signature="707:752" ph="{...}" />
+            <marker date="1487205803000" expanded="true" signature="796:858" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdsPayroll/Payments.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <marker date="1487205782000" expanded="true" signature="20:285" ph="{...}" />
+            <marker date="1487205782000" expanded="true" signature="48:283" ph="{...}" />
+            <marker date="1487205782000" expanded="true" signature="137:191" ph="{...}" />
+            <marker date="1487205782000" expanded="true" signature="228:277" ph="{...}" />
           </folding>
         </state>
       </provider>

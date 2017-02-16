@@ -17,5 +17,10 @@
         {
             return -1;
         }
+
+        public Employee GetEmployee(string id)
+        {
+            return employees.GetEmployee(id);
+        }
     }
 }

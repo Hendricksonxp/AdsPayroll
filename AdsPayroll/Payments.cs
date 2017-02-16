@@ -7,5 +7,10 @@
         {
             return new Payment();
         }
+
+        public Payment GetCurrent()
+        {
+            return payment);
+        }
     }
 }

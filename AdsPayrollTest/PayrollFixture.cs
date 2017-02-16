@@ -7,9 +7,10 @@ namespace AdsPayrollTest
         public static Payroll payroll;
 
         public string id;
-        public string name;
+        public string employeeName;
         public string payType;
         public string rate;
+        private Employee currentEmployee;
 
         public bool initializePayroll()
         {
@@ -20,7 +21,7 @@ namespace AdsPayrollTest
         public bool add()
         {
             var dollarRate = Dollars.Parse(rate);
-            var newEmployee = new Employee(id, name, payType, dollarRate);
+            var newEmployee = new Employee(id, employeeName, payType, dollarRate);
             return true;
         }
 
@@ -30,7 +31,16 @@ namespace AdsPayrollTest
             return payroll.PayCount();
         }
 
+        public string name()
+        {
+            currentEmployee = payroll.GetEmployee(id);
+            return currentEmployee.GetName();
+        }
 
+        public string grossPay()
+        {
+            return currentEmployee.GetCurrentPayment().GetGrossPay();
+        }
 
     }
 }
