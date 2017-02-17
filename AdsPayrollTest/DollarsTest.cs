@@ -3,6 +3,7 @@ using NUnit.Framework;
 
 namespace AdsPayrollTest
 {
+    [TestFixture]
     class DollarsTest
     {
         [Test]

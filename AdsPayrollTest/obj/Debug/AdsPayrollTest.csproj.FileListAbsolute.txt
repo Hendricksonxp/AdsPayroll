@@ -71,3 +71,22 @@ C:\Users\suechet\Chet Dropbox\Dropbox\ADS Server Files\Frankfurt\AddPayrolls wit
 \\mac\Dropbox\ADS Server Files\Frankfurt\AddPayrolls with Money\CSharp\AdsPayroll\AdsPayrollTest\obj\Debug\AdsPayrollTest.csprojResolveAssemblyReference.cache
 \\mac\Dropbox\ADS Server Files\Frankfurt\AddPayrolls with Money\CSharp\AdsPayroll\AdsPayrollTest\obj\Debug\AdsPayrollTest.dll
 \\mac\Dropbox\ADS Server Files\Frankfurt\AddPayrolls with Money\CSharp\AdsPayroll\AdsPayrollTest\obj\Debug\AdsPayrollTest.pdb
+C:\Users\chetHendrickson\Source\Repos\ChetCsharp\AdsPayrollTest\obj\Debug\AdsPayrollTest.csprojResolveAssemblyReference.cache
+C:\Users\chetHendrickson\Source\Repos\ChetCsharp\AdsPayrollTest\obj\Debug\AdsPayrollTest.dll
+C:\Users\chetHendrickson\Source\Repos\ChetCsharp\AdsPayrollTest\obj\Debug\AdsPayrollTest.pdb
+C:\Users\chetHendrickson\Source\Repos\ChetCsharp\AdsPayrollTest\bin\Debug\AdsPayrollTest.dll
+C:\Users\chetHendrickson\Source\Repos\ChetCsharp\AdsPayrollTest\bin\Debug\AdsPayrollTest.pdb
+C:\Users\chetHendrickson\Source\Repos\ChetCsharp\AdsPayrollTest\bin\Debug\AdsPayroll.dll
+C:\Users\chetHendrickson\Source\Repos\ChetCsharp\AdsPayrollTest\bin\Debug\dbfit.dll
+C:\Users\chetHendrickson\Source\Repos\ChetCsharp\AdsPayrollTest\bin\Debug\dbfit.mysql.dll
+C:\Users\chetHendrickson\Source\Repos\ChetCsharp\AdsPayrollTest\bin\Debug\dbfit.oracle.dll
+C:\Users\chetHendrickson\Source\Repos\ChetCsharp\AdsPayrollTest\bin\Debug\dbfit.sqlserver.dll
+C:\Users\chetHendrickson\Source\Repos\ChetCsharp\AdsPayrollTest\bin\Debug\dbfit.sybase.dll
+C:\Users\chetHendrickson\Source\Repos\ChetCsharp\AdsPayrollTest\bin\Debug\fit.dll
+C:\Users\chetHendrickson\Source\Repos\ChetCsharp\AdsPayrollTest\bin\Debug\fitSharp.dll
+C:\Users\chetHendrickson\Source\Repos\ChetCsharp\AdsPayrollTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chetHendrickson\Source\Repos\ChetCsharp\AdsPayrollTest\bin\Debug\NodaMoney.dll
+C:\Users\chetHendrickson\Source\Repos\ChetCsharp\AdsPayrollTest\bin\Debug\AdsPayroll.pdb
+C:\Users\chetHendrickson\Source\Repos\ChetCsharp\AdsPayrollTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\chetHendrickson\Source\Repos\ChetCsharp\AdsPayrollTest\bin\Debug\NodaMoney.xml
+C:\Users\chetHendrickson\Source\Repos\ChetCsharp\AdsPayrollTest\bin\Debug\nunit.framework.xml

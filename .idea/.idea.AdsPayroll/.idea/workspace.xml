@@ -2,8 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8cb0bfe5-6644-437f-8792-c20b15023c5e" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.vs/AdsPayroll/v14/.suo" afterPath="$PROJECT_DIR$/.vs/AdsPayroll/v14/.suo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayroll/bin/Debug/AdsPayroll.dll" afterPath="$PROJECT_DIR$/AdsPayroll/bin/Debug/AdsPayroll.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayroll/bin/Debug/AdsPayroll.pdb" afterPath="$PROJECT_DIR$/AdsPayroll/bin/Debug/AdsPayroll.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayroll/bin/Debug/Newtonsoft.Json.dll" afterPath="$PROJECT_DIR$/AdsPayroll/bin/Debug/Newtonsoft.Json.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayroll/bin/Debug/fit.dll" afterPath="$PROJECT_DIR$/AdsPayroll/bin/Debug/fit.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayroll/bin/Debug/fitSharp.dll" afterPath="$PROJECT_DIR$/AdsPayroll/bin/Debug/fitSharp.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayroll/obj/Debug/AdsPayroll.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/AdsPayroll/obj/Debug/AdsPayroll.csprojResolveAssemblyReference.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayroll/obj/Debug/AdsPayroll.dll" afterPath="$PROJECT_DIR$/AdsPayroll/obj/Debug/AdsPayroll.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayroll/obj/Debug/AdsPayroll.pdb" afterPath="$PROJECT_DIR$/AdsPayroll/obj/Debug/AdsPayroll.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayroll/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterPath="$PROJECT_DIR$/AdsPayroll/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayrollTest/bin/Debug/AdsPayroll.dll" afterPath="$PROJECT_DIR$/AdsPayrollTest/bin/Debug/AdsPayroll.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayrollTest/bin/Debug/AdsPayroll.pdb" afterPath="$PROJECT_DIR$/AdsPayrollTest/bin/Debug/AdsPayroll.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayrollTest/bin/Debug/AdsPayrollTest.dll" afterPath="$PROJECT_DIR$/AdsPayrollTest/bin/Debug/AdsPayrollTest.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayrollTest/bin/Debug/AdsPayrollTest.pdb" afterPath="$PROJECT_DIR$/AdsPayrollTest/bin/Debug/AdsPayrollTest.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayrollTest/obj/Debug/AdsPayrollTest.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/AdsPayrollTest/obj/Debug/AdsPayrollTest.csprojResolveAssemblyReference.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayrollTest/obj/Debug/AdsPayrollTest.dll" afterPath="$PROJECT_DIR$/AdsPayrollTest/obj/Debug/AdsPayrollTest.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayrollTest/obj/Debug/AdsPayrollTest.pdb" afterPath="$PROJECT_DIR$/AdsPayrollTest/obj/Debug/AdsPayrollTest.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayrollTest/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterPath="$PROJECT_DIR$/AdsPayrollTest/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.AdsPayroll/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.AdsPayroll/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayrollTest/PayrollFixture.cs" afterPath="$PROJECT_DIR$/AdsPayrollTest/PayrollFixture.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayroll/bin/Debug/Newtonsoft.Json.xml" afterPath="$PROJECT_DIR$/AdsPayroll/bin/Debug/Newtonsoft.Json.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayroll/obj/Debug/AdsPayroll.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/AdsPayroll/obj/Debug/AdsPayroll.csproj.FileListAbsolute.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayrollTest/DollarsTest.cs" afterPath="$PROJECT_DIR$/AdsPayrollTest/DollarsTest.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AdsPayrollTest/obj/Debug/AdsPayrollTest.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/AdsPayrollTest/obj/Debug/AdsPayrollTest.csproj.FileListAbsolute.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,21 +46,19 @@
       <file leaf-file-name="DollarsTest.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AdsPayrollTest/DollarsTest.cs">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="2" lean-forward="false" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Payment.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AdsPayroll/Payment.cs">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1487171406000" expanded="true" signature="6:40" ph="..." />
-                <marker date="1487171406000" expanded="true" signature="66:2254" ph="{...}" />
-                <marker date="1487171406000" expanded="true" signature="90:2252" ph="{...}" />
-                <marker date="1487171406000" expanded="true" signature="146:488" ph="{...}" />
-                <marker date="1487171406000" expanded="true" signature="542:884" ph="{...}" />
-                <marker date="1487171406000" expanded="true" signature="948:1130" ph="{...}" />
-                <marker date="1487171406000" expanded="true" signature="1190:1368" ph="{...}" />
-                <marker date="1487171406000" expanded="true" signature="1425:1555" ph="{...}" />
-                <marker date="1487171406000" expanded="true" signature="1609:1740" ph="{...}" />
-                <marker date="1487171406000" expanded="true" signature="1795:1965" ph="{...}" />
-                <marker date="1487171406000" expanded="true" signature="2025:2237" ph="{...}" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -58,7 +77,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/AdsPayrollTest/NodaMoneyTest.cs" />
-        <option value="$PROJECT_DIR$/AdsPayrollTest/DollarsTest.cs" />
         <option value="$PROJECT_DIR$/AdsPayroll/Dollars.cs" />
         <option value="$PROJECT_DIR$/AdsPayrollTest/HookUpTest.cs" />
         <option value="$PROJECT_DIR$/AdsPayroll/Employees.cs" />
@@ -69,6 +87,7 @@
         <option value="$PROJECT_DIR$/AdsPayroll/Employee.cs" />
         <option value="$PROJECT_DIR$/AdsPayroll/Payments.cs" />
         <option value="$PROJECT_DIR$/AdsPayrollTest/PayrollFixture.cs" />
+        <option value="$PROJECT_DIR$/AdsPayrollTest/DollarsTest.cs" />
       </list>
     </option>
   </component>
@@ -103,6 +122,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="AdsPayroll (2 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AdsPayrollTest" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AdsPayroll (2 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AdsPayroll" />
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
           </PATH>
@@ -170,6 +207,7 @@
       <workItem from="1487255146745" duration="606000" />
       <workItem from="1487263982048" duration="130000" />
       <workItem from="1487264548107" duration="548000" />
+      <workItem from="1487298830748" duration="752000" />
     </task>
     <task id="LOCAL-00001" summary="blah">
       <created>1487185694791</created>
@@ -206,11 +244,32 @@
       <option name="project" value="LOCAL" />
       <updated>1487211585243</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="blah">
+      <created>1487298992658</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1487298992658</updated>
+    </task>
+    <task id="LOCAL-00007" summary="blah">
+      <created>1487299228728</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1487299228728</updated>
+    </task>
+    <task id="LOCAL-00008" summary="blah">
+      <created>1487299293978</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1487299293978</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15668000" />
+    <option name="totallyTimeSpent" value="16420000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -272,19 +331,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1487171406000" expanded="true" signature="6:40" ph="..." />
-            <marker date="1487171406000" expanded="true" signature="66:2254" ph="{...}" />
-            <marker date="1487171406000" expanded="true" signature="90:2252" ph="{...}" />
-            <marker date="1487171406000" expanded="true" signature="146:488" ph="{...}" />
-            <marker date="1487171406000" expanded="true" signature="542:884" ph="{...}" />
-            <marker date="1487171406000" expanded="true" signature="948:1130" ph="{...}" />
-            <marker date="1487171406000" expanded="true" signature="1190:1368" ph="{...}" />
-            <marker date="1487171406000" expanded="true" signature="1425:1555" ph="{...}" />
-            <marker date="1487171406000" expanded="true" signature="1609:1740" ph="{...}" />
-            <marker date="1487171406000" expanded="true" signature="1795:1965" ph="{...}" />
-            <marker date="1487171406000" expanded="true" signature="2025:2237" ph="{...}" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdsPayrollTest/DollarsTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -299,19 +354,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="53" lean-forward="true" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
-          <folding>
-            <marker date="1487171406000" expanded="true" signature="6:40" ph="..." />
-            <marker date="1487171406000" expanded="true" signature="66:2254" ph="{...}" />
-            <marker date="1487171406000" expanded="true" signature="90:2252" ph="{...}" />
-            <marker date="1487171406000" expanded="true" signature="146:488" ph="{...}" />
-            <marker date="1487171406000" expanded="true" signature="542:884" ph="{...}" />
-            <marker date="1487171406000" expanded="true" signature="948:1130" ph="{...}" />
-            <marker date="1487171406000" expanded="true" signature="1190:1368" ph="{...}" />
-            <marker date="1487171406000" expanded="true" signature="1425:1555" ph="{...}" />
-            <marker date="1487171406000" expanded="true" signature="1609:1740" ph="{...}" />
-            <marker date="1487171406000" expanded="true" signature="1795:1965" ph="{...}" />
-            <marker date="1487171406000" expanded="true" signature="2025:2237" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -354,19 +397,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="52" lean-forward="false" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
-          <folding>
-            <marker date="1487171406000" expanded="true" signature="6:40" ph="..." />
-            <marker date="1487171406000" expanded="true" signature="66:2254" ph="{...}" />
-            <marker date="1487171406000" expanded="true" signature="90:2252" ph="{...}" />
-            <marker date="1487171406000" expanded="true" signature="146:488" ph="{...}" />
-            <marker date="1487171406000" expanded="true" signature="542:884" ph="{...}" />
-            <marker date="1487171406000" expanded="true" signature="948:1130" ph="{...}" />
-            <marker date="1487171406000" expanded="true" signature="1190:1368" ph="{...}" />
-            <marker date="1487171406000" expanded="true" signature="1425:1555" ph="{...}" />
-            <marker date="1487171406000" expanded="true" signature="1609:1740" ph="{...}" />
-            <marker date="1487171406000" expanded="true" signature="1795:1965" ph="{...}" />
-            <marker date="1487171406000" expanded="true" signature="2025:2237" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -395,19 +426,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1487171406000" expanded="true" signature="6:40" ph="..." />
-            <marker date="1487171406000" expanded="true" signature="66:2254" ph="{...}" />
-            <marker date="1487171406000" expanded="true" signature="90:2252" ph="{...}" />
-            <marker date="1487171406000" expanded="true" signature="146:488" ph="{...}" />
-            <marker date="1487171406000" expanded="true" signature="542:884" ph="{...}" />
-            <marker date="1487171406000" expanded="true" signature="948:1130" ph="{...}" />
-            <marker date="1487171406000" expanded="true" signature="1190:1368" ph="{...}" />
-            <marker date="1487171406000" expanded="true" signature="1425:1555" ph="{...}" />
-            <marker date="1487171406000" expanded="true" signature="1609:1740" ph="{...}" />
-            <marker date="1487171406000" expanded="true" signature="1795:1965" ph="{...}" />
-            <marker date="1487171406000" expanded="true" signature="2025:2237" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -422,19 +441,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1487171406000" expanded="true" signature="6:40" ph="..." />
-            <marker date="1487171406000" expanded="true" signature="66:2254" ph="{...}" />
-            <marker date="1487171406000" expanded="true" signature="90:2252" ph="{...}" />
-            <marker date="1487171406000" expanded="true" signature="146:488" ph="{...}" />
-            <marker date="1487171406000" expanded="true" signature="542:884" ph="{...}" />
-            <marker date="1487171406000" expanded="true" signature="948:1130" ph="{...}" />
-            <marker date="1487171406000" expanded="true" signature="1190:1368" ph="{...}" />
-            <marker date="1487171406000" expanded="true" signature="1425:1555" ph="{...}" />
-            <marker date="1487171406000" expanded="true" signature="1609:1740" ph="{...}" />
-            <marker date="1487171406000" expanded="true" signature="1795:1965" ph="{...}" />
-            <marker date="1487171406000" expanded="true" signature="2025:2237" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -487,13 +494,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AdsPayroll/Payment.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AdsPayroll/Employees.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -529,23 +529,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AdsPayrollTest/DollarsTest.cs">
+    <entry file="file://$PROJECT_DIR$/AdsPayroll/Payment.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1487171406000" expanded="true" signature="6:40" ph="..." />
-            <marker date="1487171406000" expanded="true" signature="66:2254" ph="{...}" />
-            <marker date="1487171406000" expanded="true" signature="90:2252" ph="{...}" />
-            <marker date="1487171406000" expanded="true" signature="146:488" ph="{...}" />
-            <marker date="1487171406000" expanded="true" signature="542:884" ph="{...}" />
-            <marker date="1487171406000" expanded="true" signature="948:1130" ph="{...}" />
-            <marker date="1487171406000" expanded="true" signature="1190:1368" ph="{...}" />
-            <marker date="1487171406000" expanded="true" signature="1425:1555" ph="{...}" />
-            <marker date="1487171406000" expanded="true" signature="1609:1740" ph="{...}" />
-            <marker date="1487171406000" expanded="true" signature="1795:1965" ph="{...}" />
-            <marker date="1487171406000" expanded="true" signature="2025:2237" ph="{...}" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdsPayrollTest/DollarsTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="2" lean-forward="false" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+          <folding />
         </state>
       </provider>
     </entry>

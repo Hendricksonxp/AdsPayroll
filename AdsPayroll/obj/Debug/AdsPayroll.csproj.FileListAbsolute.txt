@@ -66,3 +66,16 @@ C:\Users\suechet\Chet Dropbox\Dropbox\ADS Server Files\Frankfurt\AddPayrolls wit
 \\mac\Dropbox\ADS Server Files\Frankfurt\AddPayrolls with Money\CSharp\AdsPayroll\AdsPayroll\obj\Debug\AdsPayroll.csprojResolveAssemblyReference.cache
 \\mac\Dropbox\ADS Server Files\Frankfurt\AddPayrolls with Money\CSharp\AdsPayroll\AdsPayroll\obj\Debug\AdsPayroll.dll
 \\mac\Dropbox\ADS Server Files\Frankfurt\AddPayrolls with Money\CSharp\AdsPayroll\AdsPayroll\obj\Debug\AdsPayroll.pdb
+C:\Users\chetHendrickson\Source\Repos\ChetCsharp\AdsPayroll\obj\Debug\AdsPayroll.csprojResolveAssemblyReference.cache
+C:\Users\chetHendrickson\Source\Repos\ChetCsharp\AdsPayroll\obj\Debug\AdsPayroll.dll
+C:\Users\chetHendrickson\Source\Repos\ChetCsharp\AdsPayroll\obj\Debug\AdsPayroll.pdb
+C:\Users\chetHendrickson\Source\Repos\ChetCsharp\AdsPayroll\bin\Debug\AdsPayroll.dll
+C:\Users\chetHendrickson\Source\Repos\ChetCsharp\AdsPayroll\bin\Debug\AdsPayroll.pdb
+C:\Users\chetHendrickson\Source\Repos\ChetCsharp\AdsPayroll\bin\Debug\fit.dll
+C:\Users\chetHendrickson\Source\Repos\ChetCsharp\AdsPayroll\bin\Debug\fitSharp.dll
+C:\Users\chetHendrickson\Source\Repos\ChetCsharp\AdsPayroll\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chetHendrickson\Source\Repos\ChetCsharp\AdsPayroll\bin\Debug\NodaMoney.dll
+C:\Users\chetHendrickson\Source\Repos\ChetCsharp\AdsPayroll\bin\Debug\nunit.framework.dll
+C:\Users\chetHendrickson\Source\Repos\ChetCsharp\AdsPayroll\bin\Debug\Newtonsoft.Json.xml
+C:\Users\chetHendrickson\Source\Repos\ChetCsharp\AdsPayroll\bin\Debug\NodaMoney.xml
+C:\Users\chetHendrickson\Source\Repos\ChetCsharp\AdsPayroll\bin\Debug\nunit.framework.xml
