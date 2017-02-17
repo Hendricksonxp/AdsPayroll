@@ -39,17 +39,17 @@ namespace AdsPayrollTest
 
         public string grossPay()
         {
-            return currentEmployee.GetCurrentPayment().GetGrossPay().toCleanString();
+            return currentEmployee.GetCurrentPayment().GetGrossPay().ToCleanString();
         }
 
         public string federalTax()
         {
-            return currentEmmployee.GetFederalTax().toCleanString();
+            return currentEmployee.GetCurrentPayment().GetFederalTax().ToCleanString();
         }
 
         public string netPay()
         {
-            return currentEmployee.GetNetPay().toCleanString();
+            return currentEmployee.GetCurrentPayment().GetNetPay().ToCleanString();
         }
     }
 }

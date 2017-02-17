@@ -37,5 +37,20 @@
         {
             return payments.GetCurrent();
         }
+
+        public Dollars GetPayRate()
+        {
+            return payRate;
+        }
+
+        public Dollars GetFederalTax()
+        {
+            return GetCurrentPayment().GetFederalTax();
+        }
+
+        public void AddPayment(Payment payment)
+        {
+            payments.Add(payment);
+        }
     }
 }

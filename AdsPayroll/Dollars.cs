@@ -139,5 +139,10 @@ namespace AdsPayroll
         {
             return new Dollars(multiplicand.money * (decimal) multiplier);
         }
+
+        public static Dollars Zero()
+        {
+            return Dollars.Parse("0.00");
+        }
     }
 }

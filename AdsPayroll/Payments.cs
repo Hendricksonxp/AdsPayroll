@@ -1,16 +1,25 @@
-﻿namespace AdsPayroll
+﻿using System.Collections.Generic;
+using System.Linq;
+using NUnit.Framework;
+
+namespace AdsPayroll
 {
     public class Payments
     {
-        private Payment payment;
+        private List<Payment> payments = new List<Payment>();
         public Payment PaymentFor(string payDate)
         {
-            return new Payment();
+             return payments.Find(aPayment => aPayment.getPayDate() == payDate);
         }
 
         public Payment GetCurrent()
         {
-            return payment);
+            return payments.Last();
+        }
+
+        public void Add(Payment aPayment)
+        {
+            payments.Add(aPayment); 
         }
     }
 }

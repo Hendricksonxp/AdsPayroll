@@ -11,6 +11,10 @@
     <AssemblyName>AdsPayroll</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+    <SccProjectName>Svn</SccProjectName>
+    <SccLocalPath>Svn</SccLocalPath>
+    <SccAuxPath>Svn</SccAuxPath>
+    <SccProvider>SubversionScc</SccProvider>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -30,29 +34,16 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="dbfit">
-      <HintPath>..\packages\FitSharp.2.2\lib\net40\dbfit.dll</HintPath>
+    <Reference Include="fit, Version=2.5.6165.37488, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\FitSharp.2.5.0\lib\net40\fit.dll</HintPath>
+      <Private>True</Private>
     </Reference>
-    <Reference Include="dbfit.mysql">
-      <HintPath>..\packages\FitSharp.2.2\lib\net40\dbfit.mysql.dll</HintPath>
-    </Reference>
-    <Reference Include="dbfit.oracle">
-      <HintPath>..\packages\FitSharp.2.2\lib\net40\dbfit.oracle.dll</HintPath>
-    </Reference>
-    <Reference Include="dbfit.sqlserver">
-      <HintPath>..\packages\FitSharp.2.2\lib\net40\dbfit.sqlserver.dll</HintPath>
-    </Reference>
-    <Reference Include="dbfit.sybase">
-      <HintPath>..\packages\FitSharp.2.2\lib\net40\dbfit.sybase.dll</HintPath>
-    </Reference>
-    <Reference Include="fit">
-      <HintPath>..\packages\FitSharp.2.2\lib\net40\fit.dll</HintPath>
-    </Reference>
-    <Reference Include="fitSharp">
-      <HintPath>..\packages\FitSharp.2.2\lib\net40\fitSharp.dll</HintPath>
+    <Reference Include="fitSharp, Version=2.5.6165.37488, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\FitSharp.2.5.0\lib\net40\fitSharp.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
-      <HintPath>..\packages\Newtonsoft.Json.9.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <HintPath>..\packages\Newtonsoft.Json.9.0.2-beta2\lib\net45\Newtonsoft.Json.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="NodaMoney, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
