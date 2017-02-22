@@ -6,6 +6,7 @@ namespace AdsPayroll
     {
         Employees employees = new Employees();
         private string payDate;
+        private int _payCount = 0;
 
         public void AddEmployee(Employee employee)
         {
@@ -23,7 +24,7 @@ namespace AdsPayroll
 
         public int PayCount()
         {
-            return -1;
+            return _payCount;
         }
 
         public Employee GetEmployee(string id)
@@ -49,6 +50,7 @@ namespace AdsPayroll
             payment.SetFederalTax(federalTax);
             payment.SetNetPay(netPay);
             employee.AddPayment(payment);
+            _payCount++;
 
         }
 

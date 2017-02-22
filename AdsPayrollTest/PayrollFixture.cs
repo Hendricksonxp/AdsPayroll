@@ -10,6 +10,8 @@ namespace AdsPayrollTest
         public string employeeName;
         public string payType;
         public string rate;
+        public string name;
+
         private Employee currentEmployee;
 
         public bool initializePayroll()
@@ -31,7 +33,7 @@ namespace AdsPayrollTest
             return payroll.PayCount();
         }
 
-        public string name()
+        public string Name()
         {
             currentEmployee = payroll.GetEmployee(id);
             return currentEmployee.GetName();
