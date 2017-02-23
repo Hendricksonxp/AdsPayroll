@@ -4,7 +4,7 @@ namespace AdsPayrollTest
 {
     public class PayrollFixture
     {
-        public static Payroll payroll;
+        private static Payroll payroll;
 
         public string id;
         public string employeeName;
@@ -25,6 +25,7 @@ namespace AdsPayrollTest
         {
             var dollarRate = Dollars.Parse(rate);
             var newEmployee = new Employee(id, employeeName, payType, dollarRate);
+            payroll.AddEmployee(newEmployee);
             return true;
         }
 
