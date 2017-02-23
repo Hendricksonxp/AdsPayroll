@@ -35,7 +35,7 @@ namespace AdsPayrollTest
             return payroll.PayCount();
         }
 
-        public string Name()
+        public string employeeName()
         {
             currentEmployee = payroll.GetEmployee(id);
             currentPayment = currentEmployee.GetCurrentPayment();
