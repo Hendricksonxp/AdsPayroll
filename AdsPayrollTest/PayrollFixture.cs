@@ -7,7 +7,6 @@ namespace AdsPayrollTest
         private static Payroll payroll;
 
         public string id;
-        public string employeeName;
         public string payType;
         public string rate;
         public string name;
@@ -24,7 +23,7 @@ namespace AdsPayrollTest
         public bool add()
         {
             var dollarRate = Dollars.Parse(rate);
-            var newEmployee = new Employee(id, employeeName, payType, dollarRate);
+            var newEmployee = new Employee(id, name, payType, dollarRate);
             payroll.AddEmployee(newEmployee);
             return true;
         }
