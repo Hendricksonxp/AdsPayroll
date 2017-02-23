@@ -20,6 +20,7 @@ namespace AdsPayrollTest
             var payment =  carl.GetPayment(payDate);
             Assert.AreEqual("1", carl.GetId());
             Assert.AreEqual("3,000.00", payment.GetNetPay().ToCleanString());
+            Assert.AreEqual(1, payroll.PayCount());
         }
 
     }
