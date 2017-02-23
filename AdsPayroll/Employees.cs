@@ -4,24 +4,23 @@ namespace AdsPayroll
 {
     public class Employees
     {
-        Dictionary<string, Employee> collection = new Dictionary<string, Employee>();
+        private List<Employee> _employees = new List<Employee>();
 
 
         public void Add(Employee employee)
         {
-            collection.Add(employee.GetId(), employee);
+            _employees.Add(employee);
         }
 
         public Employee GetEmployee(string id)
         {
-            return collection[id];
+            return _employees.Find(anEmployee => anEmployee.GetId() == id);
         }
 
         public void Pay(Payroll payroll)
         {
 
-            var values = collection.Values;
-            foreach (var employee in values)
+            foreach (var employee in _employees)
             {
                 payroll.PayEmployee(employee);
             }
