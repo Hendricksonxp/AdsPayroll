@@ -13,6 +13,7 @@ namespace AdsPayrollTest
         public string name;
 
         private Employee currentEmployee;
+        private Payment currentPayment;
 
         public bool initializePayroll()
         {
@@ -36,22 +37,23 @@ namespace AdsPayrollTest
         public string Name()
         {
             currentEmployee = payroll.GetEmployee(id);
+            currentPayment = currentEmployee.GetCurrentPayment();
             return currentEmployee.GetName();
         }
 
         public string grossPay()
         {
-            return currentEmployee.GetCurrentPayment().GetGrossPay().ToCleanString();
+            return currentPayment.GetGrossPay().ToCleanString();
         }
 
         public string federalTax()
         {
-            return currentEmployee.GetCurrentPayment().GetFederalTax().ToCleanString();
+            return currentPayment.GetFederalTax().ToCleanString();
         }
 
         public string netPay()
         {
-            return currentEmployee.GetCurrentPayment().GetNetPay().ToCleanString();
+            return currentPayment.GetNetPay().ToCleanString();
         }
     }
 }
