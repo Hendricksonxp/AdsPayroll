@@ -52,7 +52,7 @@
             netPay = amount;
         }
 
-        public string getPayDate()
+        public string GetPayDate()
         {
             return payDate;
         }

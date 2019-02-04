@@ -9,7 +9,7 @@ namespace AdsPayroll
         private List<Payment> payments = new List<Payment>();
         public Payment PaymentFor(string payDate)
         {
-             return payments.Find(aPayment => aPayment.getPayDate() == payDate);
+             return payments.Find(aPayment => aPayment.GetPayDate() == payDate);
         }
 
         public Payment GetCurrent()
