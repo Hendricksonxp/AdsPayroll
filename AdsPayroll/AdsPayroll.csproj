@@ -83,6 +83,7 @@
     <Compile Include="Dollars.cs" />
     <Compile Include="Employee.cs" />
     <Compile Include="Employees.cs" />
+    <Compile Include="EmployeesAll.cs" />
     <Compile Include="NameMerger.cs" />
     <Compile Include="Payment.cs" />
     <Compile Include="Payments.cs" />

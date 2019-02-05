@@ -94,6 +94,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DollarsTest.cs" />
+    <Compile Include="EmployeeFixture.cs" />
     <Compile Include="HookUpFixture.cs" />
     <Compile Include="HookUpTest.cs" />
     <Compile Include="PayrollFixture.cs" />
